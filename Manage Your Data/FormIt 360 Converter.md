@@ -1,46 +1,48 @@
+
+
 # FormIt 360 Converter
 
-----
+---
 
-Convert files from other applications to use within FormIt 360
- 
+他のアプリケーションのファイルを変換して FormIt 360 内で使用します。
 
-The FormIt 360 Converter is a Revit add-in that can convert files from other applications, such as SketchUp and Revit, to use within FormIt 360. It can be downloaded directly from the [FormIt 360 website](http://formit360.autodesk.com/blog/formit-converter/).
+FormIt 360 Converter は Revit のアドインです。SketchUp、Revit など、他のアプリケーションのファイルを変換して FormIt 360 内で使用できるようにします。これは [FormIt 360 Web サイト](http://formit360.autodesk.com/blog/formit-converter/)から直接ダウンロードできます。
 
-## Convert RFA Files to FormIt 360 files ![](Images/GUID-2CC7B106-9414-40FA-BD69-5884ACBA0834-low.png)
+## RFA ファイルを FormIt 360 ファイルに変換する ![](Images/GUID-2CC7B106-9414-40FA-BD69-5884ACBA0834-low.png)
 
-1. Choose Convert RFA to FormIt 360 Content From the Ribbon menu
-2. Browse to the local directory that contains RFA files you would like to convert to FormIt 360 Content
-3. Browse to the local directory where you would like the converted FormIt 360 Content to be placed
-4. Optionally check the Upload to A360 Drive Content Folder
-5. Click OK and Revit will proceed to convert all RFA to FormIt 360 Content (.AXM files.) Only the following categories are supported, all others will be ignored: Casework, Entourage, Furniture, Furniture Systems, Generic Models, Parking, Site, Specialty Equipment, Mass.
+1. リボン メニューから[RFA を FormIt 360 コンテンツに変換]を選択します。
+2. FormIt 360 コンテンツに変換する RFA ファイルが含まれているローカル フォルダを参照します。
+3. 変換した FormIt 360 コンテンツを配置するローカル フォルダを参照します。
+4. 必要に応じて、[A360 ドライブ コンテンツ フォルダにアップロード]をオンにします。
+5. [OK]をクリックすると、Revit ですべての RFA が FormIt 360 コンテンツ(.AXM ファイル)に変換されます。サポートされるカテゴリは収納設備、点景、家具、家具システム、一般モデル、駐車場、外構、特殊部品、マスです。他のカテゴリはすべて無視されます。
 
-If you choose to upload the files to A360 drive, you will be prompted to log into Autodesk 360 (if you are not already logged in Revit.) The AXM files will be placed in the following folder in your A360 drive: /FormIt/Content. See [Content Library](../Content Libraries/README.md) to learn how to use this content within FormIt 360.
+ファイルを A360 ドライブにアップロードする場合は、Autodesk 360 へのログインを促すメッセージが表示されます(Revit にまだログインしていない場合)。AXM ファイルは A360 ドライブの /FormIt/Content フォルダに配置されます。FormIt 360 内でこのコンテンツを使用する方法の詳細については、「[コンテンツ ライブラリ](../Content Libraries/README.md)」を参照してください。
 
-## Convert FormIt 360 Sketch (AXM) Files to Revit Project ![](Images/GUID-45D30848-2C40-46BB-AC86-47372BB18DB1-low.png)
+## FormIt 360 スケッチ(AXM)ファイルを Revit プロジェクトに変換する ![](Images/GUID-45D30848-2C40-46BB-AC86-47372BB18DB1-low.png)
 
-1. Download a FormIt 360 sketch (.axm file) from your A360 drive
-2. Start Revit 2015 and start a new project
-3. From the add-in, choose Convert FormIt 360 Sketch to RVT and browse to the .axm file you downloaded previously
-4. The add-in will convert the geometry in the FormIt 360 file and place it in the currently open RVT file 
-    1. Sketched, extruded objects will become Mass families
-    2. Grouped objects that are copied will be placed as instances of that same Mass family
-    3. Groups that are assigned a specific category within FormIt 360 will be placed as a family of that same category. You may manually replace these families with any other Revit family of that same category.
-    4. Content that was converted with this add-in will be placed as a family of that same category. You may use the Reload function to replace these families with the proper RFA file (see below.)
+1. FormIt 360 スケッチ(.axm ファイル)を A360 ドライブからダウンロードします。
+2. Revit 2015 を起動して、新しいプロジェクトを開始します。
+3. [アドイン]から[FormIt 360 スケッチを RVT に変換]を選択し、前の手順でダウンロードした .axm ファイルを参照します。
+4. このアドインによって FormIt 360 ファイル内のジオメトリが変換され、現在開いている RVT ファイルに配置されます。
+1. スケッチされて押し出されたオブジェクトはマス ファミリになります。
+2. グループ化されたオブジェクトはコピーされ、同じマス ファミリのインスタンスとして配置されます。
+3. FormIt 360 内で特定のカテゴリが割り当てられたグループは同じカテゴリのファミリとして配置されます。これらのファミリは手動で同じカテゴリの他の Revit ファミリで置き換えることができます。
+4. このアドインによって変換されたコンテンツは同じカテゴリのファミリとして配置されます。これらのファミリは[再ロード]機能を使用して、適切な RFA ファイルで置き換えることができます(次を参照)。
 
-## Convert SketchUp (SKP) Files to FormIt 360 Sketch Files ![](Images/GUID-D6CF1FD4-6665-4748-872C-5D2855A84D1D-low.png)
+## SketchUp (SKP)ファイルを FormIt 360 スケッチ ファイルに変換する ![](Images/GUID-D6CF1FD4-6665-4748-872C-5D2855A84D1D-low.png)
 
-1. Choose Convert SKP to FormIt 360 Content From the Ribbon menu
-2. Browse to the local directory that contains SKP files you would like to convert to FormIt 360 Content
-3. Browse to the local directory where you would like the converted FormIt 360 Content to be placed
-4. Optionally check the Upload to A360 Drive Content Folder
-5. Click OK and Revit will proceed to convert all SKP to FormIt 360 Content (.AXM files.)
+1. リボン メニューから[SKP を FormIt 360 コンテンツに変換]を選択します。
+2. FormIt 360 コンテンツに変換する SKP ファイルが含まれているローカル フォルダを参照します。
+3. 変換した FormIt 360 コンテンツを配置するローカル フォルダを参照します。
+4. 必要に応じて、[A360 ドライブ コンテンツ フォルダにアップロード]をオンにします。
+5. [OK]をクリックすると、Revit ですべての SKP が FormIt 360 コンテンツ(.AXM ファイル)に変換されます。
 
-If you choose to upload the files to A360 drive, you will be prompted to log into Autodesk 360 (if you are not already logged in Revit.) The AXM files will be placed in the following folder in your A360 drive: /FormIt/Content. See [Content Library](../Content Libraries/README.md) to learn how to use this content within FormIt 360.
+ファイルを A360 ドライブにアップロードする場合は、Autodesk 360 へのログインを促すメッセージが表示されます(Revit にまだログインしていない場合)。AXM ファイルは A360 ドライブの /FormIt/Content フォルダに配置されます。FormIt 360 内でこのコンテンツを使用する方法の詳細については、「[コンテンツ ライブラリ](../Content Libraries/README.md)」を参照してください。
 
-## Replace FormIt 360 Content with Revit Families ![](Images/GUID-B9500378-87F8-4458-858D-42A451164228-low.png)
+## FormIt 360 コンテンツを Revit ファミリで置き換える ![](Images/GUID-B9500378-87F8-4458-858D-42A451164228-low.png)
 
-1. Convert a FormIt 360 sketch to a RVT file as outlined above
-2. In the add-in, choose Reload Families
-3. Browse to a local directory that contains RFA files that correspond to converted FormIt 360 content
-4. The add-in will proceed to replace any of the families with the correct families it finds in the selected directory
+1. 上記の手順に従って FormIt 360 スケッチを RVT ファイルに変換します。
+2. [アドイン]から[ファミリを再ロード]を選択します。
+3. 変換した FormIt 360 コンテンツに対応する RFA ファイルが含まれているローカル フォルダを参照します。
+4. このアドインにより、すべてのファミリが、選択されたフォルダ内で見つかった適切なファミリで置き換えられます。
+

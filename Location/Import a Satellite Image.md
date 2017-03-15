@@ -1,28 +1,32 @@
-# Import a Satellite Image
 
-----
 
-Add detail and realism to your design.
- 
+# 衛星画像を読み込む
 
-Satellite images and weather station data add important information to your designs.
+---
 
-#### Import Satellite Image
+詳細を追加して設計に現実感を加えます。
 
-1. Click on the Location icon from the action tool bar.
-2. Search for a specific location or use the map view to pan and zoom to set a location.
-3. Click to place the red pin after you have found your location.
-4. Click Import Satellite Image to add the aerial photo to your sketch.
-5. Use the dialog that appears to crop the satellite image to show the relevant context for your sketch.
-6. Either: 
-    * Click Finish. 
-        
-        This action will return you to the drawing area and set the location of the project without importing the satellite image. You can always return later to the Location screen to import the satellite image.
-    * Click Finish Importing to set the location and add the location's satellite image to your drawing area.
+衛星画像や気象ステーションのデータは設計に重要な情報を追加します。
+
+#### 衛星画像を読み込む
+
+1. アクション バーの[位置]アイコンをクリックします。
+2. 特定の位置を検索するか、マップ ビューで画面移動およびズームして位置を設定します。
+3. 位置が見つかったらクリックし、赤いピンを配置します。
+4. [衛星画像を読み込む]をクリックし、航空写真をスケッチに追加します。
+5. 表示されるダイアログを使用して衛星画像をトリムし、スケッチに関連するコンテキストを表示します。
+6. 次のうちのいずれかを実行します。
+
+* [完了]をクリックします。
+
+この操作により、作図領域に戻って衛星画像を読み込まずにプロジェクトの位置が設定されます。衛星画像の読み込みは後からいつでも[位置]画面に戻って実行できます。
+
+* [読み込みを終了]をクリックして位置を設定し、その位置の衛星画像を作図領域に追加します。
 
 ![](Images/GUID-E5BA7A6F-D280-4FFE-8561-9BEDCCD38759-low.png)
 
-1. Click any of the nearby Weather Stations to review the local historic climate data.
-2. Click the X in the upper right corner to dismiss the weather station display.
+1. 付近のいずれかの気象ステーションをクリックし、地域の気象データの履歴を確認します。
+2. 右上隅にある[X]をクリックして、表示されている気象ステーションを閉じます。
 
 ![](Images/GUID-1AED3D3E-303F-466F-848E-E664759BDB03-low.png)
+

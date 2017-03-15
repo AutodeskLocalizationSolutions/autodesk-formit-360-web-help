@@ -1,49 +1,50 @@
-# User Interface Tools
 
-----
 
-Reference for command interaction tools.
+# ユーザ インタフェース ツール
 
-## Information Area
+---
 
-* ![](Images/GUID-04A6C825-C1EB-4092-BEF6-9C20E9428677-low.png) Save the Sketch: Click to save the current sketch, or open a new sketch.
-* ![](Images/GUID-5B0627B2-BA61-45D0-89CC-7B2A47E34A87-low.png)Set the name: Click to change the name of your sketch.
-* ![](Images/GUID-850FD972-B1C0-4755-AB04-ED8CC0076754-low.png)Undo and Redo: Click to undo or redo recent actions.
-* *Navigation Bar* 
-    
-    | | |
-    | ---- | ---- |
-    | ![](Images/GUID-67C6ED8B-13C8-4166-B54D-39616A8F3CB5-low.png)   |  *Top View*: Go to orthogonal view looking down <br><br>*3D View*: Go back to the default 3D perspective view<br><br>*Jet Pack*: Go to a walkthrough view using traditional gaming controls. W - forward, S - Back, A - Left, D - Right, Q - Up, F - Down, Space Bar launches you into the air<br><br>*Select*: Puts you back into Select mode<br><br>*Orbit*<br><br>*Pan*<br><br>*Zoom*<br><br>*Zoom to Fit*<br>  |
+コマンド操作ツールを紹介します。
 
-## The Action Bar
+## 情報の領域
 
-* The action bar is found at the top of your screen. The tools in the action bar will help you create, edit, and share content. 
-    
-    ![](Images/GUID-20BA4556-7083-4058-8F81-FAB82111F189-low.png)
+* ![](Images/GUID-04A6C825-C1EB-4092-BEF6-9C20E9428677-low.png)スケッチを保存: これをクリックすると、現在のスケッチを保存するか、新しいスケッチを開くことができます。
+* ![](Images/GUID-5B0627B2-BA61-45D0-89CC-7B2A47E34A87-low.png)名前を設定: これをクリックすると、スケッチの名前を変更できます。
+* ![](Images/GUID-850FD972-B1C0-4755-AB04-ED8CC0076754-low.png)元に戻す/やり直し: これをクリックすると、最近の操作を元に戻すか、やり直すことができます。
+* *ナビゲーション バー*
 
-* User Identity, Help Bar ![](Images/GUID-5957B173-1265-4968-8310-ADC319ED2012-low.png)
+| | | | ---- | ---- | | ![](Images/GUID-67C6ED8B-13C8-4166-B54D-39616A8F3CB5-low.png) | *上部ビュー*: 平行投影ビューに切り替えて上部から見下ろします <br xmlns="http://www.w3.org/1999/xhtml"/><br xmlns="http://www.w3.org/1999/xhtml"/>*3D ビュー*: 既定の 3D パース ビューに戻ります<br xmlns="http://www.w3.org/1999/xhtml"/><br xmlns="http://www.w3.org/1999/xhtml"/>*ジェット パック*: 従来のゲーム コントロールを使用してウォークスルー ビューに切り替えます。 [W] - 前方、[S] - 後方、[A] - 左、[D] - 右、[Q] - 上、[F] - 下、[Spacebar] - 離昇<br xmlns="http://www.w3.org/1999/xhtml"/><br xmlns="http://www.w3.org/1999/xhtml"/>*選択*: 選択モードに戻ります<br xmlns="http://www.w3.org/1999/xhtml"/><br xmlns="http://www.w3.org/1999/xhtml"/>*オービット*<br xmlns="http://www.w3.org/1999/xhtml"/><br xmlns="http://www.w3.org/1999/xhtml"/>*画面移動*<br xmlns="http://www.w3.org/1999/xhtml"/><br xmlns="http://www.w3.org/1999/xhtml"/>*ズーム*<br xmlns="http://www.w3.org/1999/xhtml"/><br xmlns="http://www.w3.org/1999/xhtml"/>*ズームして全体を表示*<br xmlns="http://www.w3.org/1999/xhtml"/> |
 
-* ![](Images/GUID-F3BAC481-B10C-4CA3-B638-C2BF842C0209-low.png) Selection Filter: Click to choose options for filtering out object types from the selection tool
-* ![](Images/GUID-CB5D154A-CF6B-43A2-8BB5-77218F594BBD-low.png)Measure Tools: Click to choose a linear or angular measure tool
-* ![](Images/GUID-5436C5D2-1662-4F0D-ACC6-4CAB5CF30E83-low.png)Sketch Tools: Click to bring up a menu of creation tools that will help you draw shapes.
-* ![](Images/GUID-CF6A4EA8-13E8-4BFA-B0FA-76B01F51B364-low.png)Primitives: Click to bring up a menu of basic 3D shapes that you can place in your scene.
-* ![](Images/GUID-E44FD1BC-52E8-4515-B7DB-2697AF5F66A8-low.png)Advanced Tools: Click to use Boolean cut or join, cover, sweep, or loft operations.
-* ![](Images/GUID-703E56FE-819D-4A29-B086-301B024C60E1-low.png)Groups: Click to locate tools for grouping objects.
-* ![](Images/GUID-6F10FAB3-B960-418F-88DC-17E12E352986-low.png) Sun and Shadows: Use this tool to change the date and time of day to study shadows on your model. For more info on sun and shadows, see [Sun and Shadow Settings](../../Building Performance/Sun and Shadow Settings.md). Launch Solar Analysis from within this panel.
-* ![](Images/GUID-F12CB419-C270-4B9C-B3C9-5E5B4099B168-low.png)Settings: Set application and sketch settings along with visual style and perform model diagnostics.
-* ![](Images/GUID-7EC051BA-7A0E-4049-A3D9-7860ECD98C86-low.png)Search for a location and import satellite imagery into your sketch. For more information on setting the location of your sketch.
-* ![](Images/GUID-4B5571DF-D3B2-4693-85FF-5BED468431BB-low.png)Energy Analysis: Click tp perform calculations on a building to determine its energy use.
-* ![](Images/GUID-69E97DB2-B47E-4DC7-B01B-EACFE2FE9F01-low.png)Import Images and Models: Use this tool to add images and models you created with other programs.
-* ![](Images/GUID-C718BBE1-F84C-4C9A-8E1B-C6A3713C3618-low.png)Share Your Work: Export your model into different formats.
-* ![](Images/GUID-C3E5ACB7-C969-4959-8978-3F9A9A2C4588-low.png) Obtain access to Solar Analysis, Energy Analysis, and Collaboration features
-* ![](Images/GUID-1272E029-F99F-4F39-9571-8F3D0CE8FEF0-low.png)Login to Autodesk 360: Use the Autodesk 360 Cloud Services for FREE to store and share your sketches.
-* ![](Images/GUID-E5EC9B4D-7C13-44B7-ADBD-06798BE89B44-low.png)Help: Use the information tools to learn more about FormIt 360.
+## アクション バー
 
-## Palette Bar
+* アクション バーは、画面の上部に表示されます。アクション バーのツールを使用すると、コンテンツを作成、編集、共有できます。
 
-The Palette Bar appears on the right side of the screen. Click one of these icons to open a side palette to display building properties, materials, a content library, and collaboration tools.
+![](Images/GUID-20BA4556-7083-4058-8F81-FAB82111F189-low.png)
+
+* ユーザ ID、ヘルプ バー ![](Images/GUID-5957B173-1265-4968-8310-ADC319ED2012-low.png)
+
+* ![](Images/GUID-F3BAC481-B10C-4CA3-B638-C2BF842C0209-low.png)選択フィルタ: これをクリックすると、特定のオブジェクト タイプをフィルタから除外するためのオプションを選択ツールから選択できます。
+
+* ![](Images/GUID-CB5D154A-CF6B-43A2-8BB5-77218F594BBD-low.png)計測ツール: これをクリックすると、直線計測ツールまたは角度計測ツールを選択できます。
+* ![](Images/GUID-5436C5D2-1662-4F0D-ACC6-4CAB5CF30E83-low.png)スケッチ ツール: これをクリックすると、形状を描画できる作成ツールのメニューが表示されます。
+* ![](Images/GUID-CF6A4EA8-13E8-4BFA-B0FA-76B01F51B364-low.png)プリミティブ: これをクリックすると、シーンに配置できる基本的な 3D 形状のメニューが表示されます。
+* ![](Images/GUID-E44FD1BC-52E8-4515-B7DB-2697AF5F66A8-low.png)高度なツール: これをクリックすると、ブール演算の切り取り、結合、かぶり、スイープ、ロフトを使用できます。
+* ![](Images/GUID-703E56FE-819D-4A29-B086-301B024C60E1-low.png)グループ: これをクリックすると、オブジェクトをグループ化するためのツールを見つけることができます。
+* ![](Images/GUID-6F10FAB3-B960-418F-88DC-17E12E352986-low.png)太陽と影: このツールを使用すると、日時を変更してモデルの影を調査できます。 太陽と影について詳しくは、「[太陽と影の設定](../../Building Performance/Sun and Shadow Settings.md)」を参照してください。 日照解析はこのパネル内から起動してください。
+* ![](Images/GUID-F12CB419-C270-4B9C-B3C9-5E5B4099B168-low.png)設定: アプリケーション、スケッチ、表示スタイルを設定し、モデル診断を実行します。
+* ![](Images/GUID-7EC051BA-7A0E-4049-A3D9-7860ECD98C86-low.png)位置を検索し、衛星画像をスケッチに読み込みます。 スケッチの位置の設定方法について詳しくは、「位置」を参照してください。
+* ![](Images/GUID-4B5571DF-D3B2-4693-85FF-5BED468431BB-low.png)エネルギー解析: これをクリックすると、建物のエネルギー使用を計算して算出できます。
+* ![](Images/GUID-69E97DB2-B47E-4DC7-B01B-EACFE2FE9F01-low.png)イメージとモデルを読み込み: このツールを使用すると、他のプログラムで作成したイメージやモデルを追加することができます。
+* ![](Images/GUID-C718BBE1-F84C-4C9A-8E1B-C6A3713C3618-low.png)作業を共有: モデルを別の形式に書き出します。
+* ![](Images/GUID-C3E5ACB7-C969-4959-8978-3F9A9A2C4588-low.png)日照解析、エネルギー解析、コラボレーションの各機能へのアクセスを取得します。
+* ![](Images/GUID-1272E029-F99F-4F39-9571-8F3D0CE8FEF0-low.png)Autodesk 360 にログイン: 無償の Autodesk 360 クラウドにスケッチを保存し、共有することができます。
+* ![](Images/GUID-E5EC9B4D-7C13-44B7-ADBD-06798BE89B44-low.png)ヘルプ: 情報ツールを使用して FormIt 360 の詳細を確認できます。
+
+## パレット バー
+
+パレット バーは画面の右側に表示されます。これらのアイコンのいずれかをクリックして横にパレットを開き、建物のプロパティ、マテリアル、コンテンツ ライブラリ、コラボレーション ツールを表示します。
 
 | | |
 | ---- | ---- |
-| ![](Images/GUID-39317707-97A9-46F2-B8A4-76115959890F-low.png)   |   <br>*Properties*: Open this palette to view location, gross area, and floor area ratios for your sketch<br><br>*Materials*: Use this palette to create or apply materials<br><br>*Layers*: Create and Manage Layers and assign selected objects to different Layers<br><br>*Scenes*: Create, manage and play Scenes<br><br>*Levels*: Use this palette to display and add levels to your building objects<br><br>*Content Library*: Use the content library to store reusable content such as furniture<br><br>*Collaboration* (FormIt 360 Pro only): Use Collaboration to work simultaneously with others as you create designs<br>  |
+|![](Images/GUID-39317707-97A9-46F2-B8A4-76115959890F-low.png)|*プロパティ*: このパレットを開くと、スケッチの位置、総面積、床面積率を表示できます。*マテリアル*: このパレットを使用すると、マテリアルを作成または適用できます。*レイヤ*: レイヤを作成、管理し、選択したオブジェクトを別のレイヤに割り当てます。*シーン*: シーンを作成、管理、再生します。*レベル*: このパレットを使用すると、レベルを表示して建物オブジェクトに追加できます。*コンテンツ ライブラリ*: [コンテンツ ライブラリ]を使用すると、家具などの再利用可能なコンテンツを保存できます。*コラボレーション*(FormIt 360 Pro のみ): [コラボレーション]を使用すると、設計の作成中に他のユーザと同時に作業できます。|
 

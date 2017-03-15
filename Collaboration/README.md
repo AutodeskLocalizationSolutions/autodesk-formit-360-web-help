@@ -1,44 +1,47 @@
-# Collaboration
-
-----
-
-Work simultaneously with others on the same sketch, or share your work later.
-Note 
-
-Collaboration works only after you activate FormIt 360 Pro. Clicking on the Collaboration icon will prompt you to log in with an http://360.autodesk.com account entitled for FormIt 360 Pro.
-
-* You can start a collaboration session and let others see your design and see any edits you make. 
-    
-    ![](Images/GUID-532951E8-D393-4642-85B8-1383FA39BBFC-low.jpg)
-
-In addition to simultaneous collaboration through shared sessions, you can share the work you have created in various other ways. From emailing images of your design, to exporting your sketches so that they can be used in other programs, you can easily let others review your work. 
-* Sharing options can be accessed from the Action toolbar by clicking the File icon in the upper left. You can share your work either by exporting to your Autodesk 360 drive or your local drive. See [Export files and images.](../../Manage Your Data/Export Files and Images.md) 
-    
-    ![](Images/GUID-0FE88E44-6422-45F1-B81A-994160E2CD21-low.png)
 
 
-#### See Also
+# コラボレーション
 
-* [Export Files and Images](../../Manage Your Data/Export Files and Images.md)
-* [ Saving Your Work](../../Manage Your Data/Saving Your Work.md)
+---
 
-  
+同じスケッチで他のユーザと同時に作業したり、作業内容を後で共有します。注
 
-#### Topics in this section
+コラボレーション機能を使用する前に、FormIt 360 Pro を有効にする必要があります。[コラボレーション]アイコンをクリックすると、FormIt 360 Pro 用の [http://360.autodesk.com](http://360.autodesk.com) アカウントを使用してログインするように促すメッセージが表示されます。
 
-* [Start and Stop Collaborative Sessions](../Start and Stop Collaborative Sessions.md)
-    
-    Invite other people to work on the same design project.
-* [Joining a Session](../Joining a Session.md)
-    
-    Become part of a collaboration.
-* [Inviting Others to a Session ](../Inviting Others to a Session.md)
-    
-    Create a collaboration team.
-* [Following a Session Camera](../Following a Session Camera.md)
-    
-    View the work from another collaborator's point of view.
-* [Chat with Collaborators ](../Chat with Collaborators.md)
-    
-    Engage in dialog as you design.
+* コラボレーション セッションを開始すると、設計内容や編集内容を他のユーザが表示できるようになります。
+
+![](Images/GUID-532951E8-D393-4642-85B8-1383FA39BBFC-low.jpg)
+
+共有セッションを通じた同時コラボレーションに加えて、他のさまざまな方法で作成した作業内容を共有できます。設計イメージを電子メールで送信したり、スケッチを書き出すことにより、作業内容を他のプログラムで使用できるようになるため、他のユーザがレビューしやすくなります。
+
+* 共有オプションはアクション ツールバーの左上隅にある[ファイル]アイコンをクリックしてアクセスできます。作業内容は、Autodesk 360 ドライブまたはローカル ドライブに書き出して共有できます。「[ファイルとイメージを書き出す](../../Manage Your Data/Export Files and Images.md)」を参照してください。
+
+![](Images/GUID-0FE88E44-6422-45F1-B81A-994160E2CD21-low.png)
+
+#### 参照
+
+* [ファイルとイメージを書き出す](../../Manage Your Data/Export Files and Images.md)
+* [ 作業内容を保存する](../../Manage Your Data/Saving Your Work.md)
+
+#### このセクションの内容
+
+* [コラボレーション セッションを開始および停止する](../Start and Stop Collaborative Sessions.md)
+
+同じ設計プロジェクトで作業できるように、他のユーザを招待します。
+
+* [セッションに参加する](../Joining a Session.md)
+
+コラボレーションに参加します。
+
+* [他のユーザをセッションに招待する ](../Inviting Others to a Session.md)
+
+コラボレーション チームを作成します。
+
+* [セッション カメラをフォローする](../Following a Session Camera.md)
+
+別の共有メンバーの視点から作業内容を確認します。
+
+* [共有メンバーとチャットする ](../Chat with Collaborators.md)
+
+設計時にメンバーと会話します。
 

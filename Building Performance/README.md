@@ -1,32 +1,33 @@
-# Building Performance
 
-----
 
-Start a BIM workflow by evaluating the performance of elements from the beginning of the design process.
+# 建物パフォーマンス
 
-### Building Performance
+---
+
+BIM ワークフローでは、最初に、設計プロセスの初期段階から各種要素のパフォーマンスを評価します。
+
+### 建物パフォーマンス
 
 | | |
 | ---- | ---- |
-| Use the Properties palette to inspect building attributes, such as area.   |   ![](Images/GUID-D2AC7F6B-71D4-4A6D-9FB0-1B89949036E0-low.png)   |
+|プロパティ パレットを使用して領域などの建物属性を確認します。|![](Images/GUID-D2AC7F6B-71D4-4A6D-9FB0-1B89949036E0-low.png)|
 
+#### 参照
 
-#### See Also
+* [オブジェクトのプロパティを調べる ](../../Modify Designs/Examine Object Properties.md)
+* [容積とスペースの用途 ](../../Levels and Space Usage/README.md)
 
-* [Examine Object Properties ](../../Modify Designs/Examine Object Properties.md)
-* [Volume and Space Usage ](../../Levels and Space Usage/README.md)
+#### このセクションの内容
 
-  
+* [太陽と影の設定 ](../Sun and Shadow Settings.md)
 
-#### Topics in this section
+日付と時刻を設定することにより、現在位置における影の角度をコントロールします。
 
-* [ Sun and Shadow Settings ](../Sun and Shadow Settings.md)
-    
-    Control the angle of the shadows at your locations by setting date and time.
-* [Solar Analysis](../Solar Analysis.md)
-    
-    Visualize the amount of solar radiation that your model receives.
-* [Whole Building Energy Analysis](../Whole Building Energy Analysis.md)
-    
-    Evaluate factors that affect building performance, such a wall insulation and HVAC efficiency.
+* [日照解析](../Solar Analysis.md)
+
+モデルの日照量を視覚化します。
+
+* [建物全体のエネルギー解析](../Whole Building Energy Analysis.md)
+
+壁の断熱、HVAC 効率など、建物パフォーマンスに影響を及ぼす要素を評価します。
 

@@ -1,22 +1,25 @@
-# Set a Location
 
-----
 
-Establish a geographic location for your sketch.
+# 位置を設定する
 
-## Identify Your Location
+---
 
-1. ![](Images/GUID-45268F36-37CA-468C-B326-9DB28FFA5534-low.png)Click the Location icon from the action bar. You can either search for a specific location or use the map to browse for a location. 
-    
-    You can optionally move the red pin to another location on the map.
-    
-    After you have found your location, make sure you have placed the red pin. Then click the 'Import Satellite Image' button to add the aerial photo to your sketch for reference, model scale, and true north.
-    
-    After searching for the project location, you can optionally:
-    
-    * Click the 'Import Satellite Image' button to add the aerial photo to your sketch for reference, model scale, and true north.
-    * Click Finish Importing to set the location and add the location's satellite image to your drawing area.
-    * Click any of the nearby Weather Stations to review the local historic climate data.
-    * Click Finish. 
-        
-        This action will return you to the drawing area and set the location of the project without importing the satellite image. You can always return later to the Location screen to import the satellite image.
+スケッチの地理的位置を確定します。
+
+## 位置を識別する
+
+1. アクション バーの[位置]アイコン ![](Images/GUID-45268F36-37CA-468C-B326-9DB28FFA5534-low.png) をクリックします。 特定の位置を検索するか、マップを使用して位置を参照します。
+
+必要に応じて、赤いピンはマップの別の位置に移動できます。
+
+位置が見つかったら、赤いピンを配置します。次に、[衛星画像を読み込む]ボタンをクリックし、航空写真をスケッチに追加して、参照用として使用したり、モデルの拡大/縮小や真北の取得に使用します。
+
+プロジェクトの位置を検索した後、必要に応じて次の操作を実行できます。
+
+* [衛星画像を読み込む]ボタンをクリックし、航空写真をスケッチに追加して、参照用として使用したり、モデルの拡大/縮小や真北の取得に使用します。
+* [読み込みを終了]をクリックして位置を設定し、その位置の衛星画像を作図領域に追加します。
+* 付近のいずれかの気象ステーションをクリックし、地域の気象データの履歴を確認します。
+* [完了]をクリックします。
+
+この操作により、作図領域に戻って衛星画像を読み込まずにプロジェクトの位置が設定されます。衛星画像の読み込みは後からいつでも[位置]画面に戻って実行できます。
+

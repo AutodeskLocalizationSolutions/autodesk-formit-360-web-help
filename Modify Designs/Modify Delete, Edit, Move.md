@@ -1,9 +1,12 @@
-# Modify: Delete, Edit, Move
 
-----
 
-Remove an object, change its location, or modify its properties.
+# 修正: 削除、編集、移動する
 
-1. ![](Images/GUID-4C5500A4-7879-4337-BA56-A84CA0CAB32E-low.png) To delete geometry, you must first make a geometry selection. Then, right-click to see the context menu where you can click on the delete icon. You can also press the delete key on your keyboard.
-2. ![](Images/GUID-37D395A6-BF06-4845-BDE7-A35E185EE456-low.png)When using many of the editing tools like Move, Array, Push Pull Face, and Offset, you will see a blue dimension box. You can click this dimension after you finish your operation, and input a specific value. You can also press the Tab key to access the Edit Dimension dialog.
-3. ![](Images/GUID-6900C5E9-1D48-41EC-95E6-29E9BB579ECD-low.png) To move edges, faces, or objects, first select, then you are automatically in the move tool. Hover to see snaps and inference points to specify where you want to start your move operation, click to start. Now hover your mouse to see snaps and inference points to the location you want to move the object. Click again to place the object.
+---
+
+オブジェクトの削除、オブジェクトの場所の移動、オブジェクトのプロパティの編集を行います。
+
+1. ![](Images/GUID-4C5500A4-7879-4337-BA56-A84CA0CAB32E-low.png) ジオメトリを削除するには、最初に、削除するジオメトリを選択します。 次に、右クリックしてコンテキスト メニューを表示し、削除アイコンをクリックします。または、キーボードの[Delete]キーを押してもかまいません。
+2. ![](Images/GUID-37D395A6-BF06-4845-BDE7-A35E185EE456-low.png)[移動]ツール、[配列]ツール、[面をプッシュ/プル]ツール、[オフセット]ツールなどの編集ツールを使用する場合、青い寸法ボックスが表示されます。 操作が完了したらこの寸法ボックスをクリックし、特定の値を入力します。[Tab]キーを押すと、[寸法値を入力]ダイアログが表示されます。このボックスで値を入力することもできます。
+3. ![](Images/GUID-6900C5E9-1D48-41EC-95E6-29E9BB579ECD-low.png) エッジ、面、またはオブジェクトを移動するには、最初にそのいずれかを選択します。これにより、自動的に移動ツールが起動します。 マウスを操作してスナップと推定配置点を表示し、移動操作の開始位置を指定してクリックします。これにより、移動操作が開始されます。次に、オブジェクトの移動先となる位置にマウスを置き、スナップと推定配置点を表示します。もう一度クリックすると、オブジェクトが配置されます。
+

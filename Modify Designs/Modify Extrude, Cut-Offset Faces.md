@@ -1,9 +1,12 @@
-# Modify: Extrude, Cut/Offset Faces
 
-----
 
-Push or pull a face, or imprint new shapes on existing ones, or change create new edges offset from the original ones.
+# 修正: 面を押し出す、切り取る、オフセットする
 
-1. ![](Images/GUID-759599CA-0885-4D40-A9FE-BB1E1AD1640A-low.png) To push and pull a face, select a face with a single click, then click and drag. The face will move back and forth, you can now move your mouse to snap and inference on other model elements. Click again to finish moving the face. Hold down the CTRL key to retain the original edges.
-2. ![](Images/GUID-756AC071-3BD5-4C4B-A234-B5D4209A4702-low.png) To imprint shapes, use a 3D Sketch tool to draw lines, arcs, splines, rectangles or circles onto existing faces. This action creates new faces that can be push / pulled independently of the original face.
-3. ![](Images/GUID-84901B0B-D8D3-4748-830A-4E1191A840A4-low.png) To offset a face, after face selection, click on the offset tool from the context menu. Then, move your mouse over the face to create a series of edges offset from the original edges.
+---
+
+面のプッシュとプル、既存の形状に対する新しい形状のインプリント、既存のエッジから新しいエッジへのオフセットの作成について説明します。
+
+1. ![](Images/GUID-759599CA-0885-4D40-A9FE-BB1E1AD1640A-low.png) 面のプッシュやプルを行うには、対象となる面をシングルクリックで選択し、もう一度クリックしてドラッグします。 面は前後に移動します。移動先のモデル要素にマウスカーソルを置いて、スナップと推定配置点を表示します。もう一度クリックすると、面の移動が完了します。元のエッジを保持するには、[Ctrl]キーを押したままにします。
+2. ![](Images/GUID-756AC071-3BD5-4C4B-A234-B5D4209A4702-low.png) 形状をインプリントするには、3D スケッチ ツールを使用して、直線、円弧、スプライン、長方形、または円を既存の面上に描画します。 この操作により、元の面からは独立してプッシュやプルを行うことができる新しい面が作成されます。
+3. ![](Images/GUID-84901B0B-D8D3-4748-830A-4E1191A840A4-low.png) 面をオフセットするには、対象となる面を選択し、コンテキスト メニューでオフセット ツールをクリックします。 次に、面にマウスカーソルを置き、元のエッジからオフセットする一連のエッジを作成します。
+

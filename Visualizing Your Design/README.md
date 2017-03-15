@@ -1,29 +1,30 @@
-# Visualizing Your Design
 
-----
 
-Use materials, layers and scenes to visualize your design
- 
+# 設計を視覚化する
 
-Use* [Materials](../Using Materials/README.md)* to add color and texture to your designs.
+---
 
-Use* [Layers](../Layers.md)* to toggle the visibility of individual elements.
+マテリアル、レイヤ、シーンを使用して設計を視覚化します
 
-Use *[Scenes](../Scenes.md) *to create saved view points.
+設計にカラーやテクスチャを追加するには、*[マテリアル](../Using Materials/README.md)*を使用します。
+
+各要素の表示を切り替えるには、*[レイヤ](../Layers.md)*を使用します。
+
+表示ポイントを作成、保存するには、*[シーン](../Scenes.md)*を使用します。
 
 ![](Images/GUID-40CC1198-CBFD-4CFC-AF24-CE5886640AD9-low.png)
 
-  
+#### このセクションの内容
 
-#### Topics in this section
+* [マテリアルを使用する](../Using Materials/README.md)
 
-* [ Using Materials](../Using Materials/README.md)
-    
-    Enrich and enhance designs using Materials to add detail.
-* [Layers](../Layers.md)
-    
-    Use the layers to control the visibility of individual objects.
-* [Scenes](../Scenes.md)
-    
-    Use the scenes to create and navigate back to saved view points.
+マテリアルを使用して詳細を追加することにより、内容が充実した高度な設計を作成できます。
+
+* [レイヤ](../Layers.md)
+
+レイヤを使用して各オブジェクトの表示をコントロールします。
+
+* [シーン](../Scenes.md)
+
+シーンを使用して視点を作成、保存し、保存した視点に戻ります。
 

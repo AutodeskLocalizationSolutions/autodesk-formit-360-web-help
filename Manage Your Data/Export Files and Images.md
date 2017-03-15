@@ -1,20 +1,24 @@
-# Export Files and Images
 
-----
 
-Save files to your A360 drive or to local storage
- 
+# ファイルとイメージを書き出す
 
-1. Click the Export icon to open the Export menu. 
-    
-    ![](Images/GUID-0FE88E44-6422-45F1-B81A-994160E2CD21-low.png)
-    
-    ![](Images/GUID-F16641A9-7EA8-419B-9CD3-EF040AD49C41-low.png)
-2. Choose an export format to save on A360 or Locally. 
-    * AXM Saves in the FormIt 360 file format
-    * OBJ format saves the material definition and mesh data. This is useful for opening in 3DS Max and other systems that support OBJ
-    * STL is a standard 3D mesh interchange that is useful for 3D printing workflows
-    * SAT is a standard 3D solid interchange format
-    * Image saves the current view as a PNG without the user interface components
+---
 
-3. Choose whether you want to export All objects, visible objects, or just the currently selected objects
+ファイルを A360 ドライブまたはローカル ストレージに保存します。
+
+1. [書き出し]アイコンをクリックし、[書き出し]メニューを開きます。
+
+![](Images/GUID-0FE88E44-6422-45F1-B81A-994160E2CD21-low.png)
+
+![](Images/GUID-F16641A9-7EA8-419B-9CD3-EF040AD49C41-low.png)
+
+2. 書き出し形式を選択し、A360 またはローカルに保存します。
+
+* [AXM]を選択すると、FormIt 360 ファイル形式で保存します
+* [OBJ]形式を選択すると、マテリアル定義とメッシュ データを保存します。これは 3DS Max や、OBJ をサポートするその他のシステムで開く場合に便利です
+* [STL]は標準の 3D メッシュ交換形式です。3D プリンタ ワークフローに適しています
+* [SAT]は標準の 3D ソリッド交換形式です
+* [イメージとして]を選択すると、現在のビューをユーザ インタフェース コンポーネントなしで PNG として保存します
+
+3. すべてのオブジェクトを書き出すか、表示されているオブジェクトを書き出すか、現在選択しているオブジェクトのみを書き出すかを選択します
+

@@ -1,16 +1,19 @@
-# Modify: Tilt, Array, Copy/Paste
 
-----
 
-Create more complex designs by making alterations to previously drawn shapes.
+# 修正: 傾斜を適用、配列化、コピー、貼り付け
 
-## Modify Geometry
+---
 
-To create more complex designs after sketching a shape or placing a primitive, you can use several contextual tools to modify your geometry. These operations include: Tilt, Facet (Web-only), Copy/Paste, and Array.
+以前に描画した形状を変更して、より複雑な設計を作成します。
 
-1. ![](Images/GUID-022529D4-9944-4CDB-ADF6-D08529200147-low.png)To tilt a face, select a face, right-click to see the context menu. Then choose the tilt icon from the context menu. Next, define the tilt axis by drawing a line. Then, click a third point to start the tilt operation.
-2. ![](Images/GUID-1884ED02-ADCB-48FF-8673-22ABCD275704-low.png) If you hover over a face and notice dotted lines - this means the face is made up of smaller faces due to the face being warped. To turn the dotted lines into model edges, first select the face - or object - and right-click to see the context menu. Then choose the facet icon from the context menu. This will add edges, where before the face was smooth.
-3. ![](Images/GUID-4096EFD8-2277-4EF8-8295-13308C75CC51-low.png)To copy and paste faces, edges, or objects, first select then choose the copy icon from the context menu. Then, bring up the context menu again to paste. When pasting you will have snap and inference options. Hold down the CTRL key and drag an object to make a quick copy.
-4. ![](Images/GUID-EE2A0DBE-4C81-493E-8C92-B9656DB45D9B-low.png) To array edges, faces, or entire objects, click on the array icon from the context menu. You can create both linear and radial arrays. Next, choose either linear or radial and then specify the other parameters. Then, similar to the move tool - click the object to start an array, and click again to place arrayed elements. 
-    
-    ![](Images/GUID-09C2339D-E234-4464-9FC0-44C6435DAFB7-low.png)
+## ジオメトリを変更する
+
+形状をスケッチするか、プリミティブを配置した後、より複雑な設計を作成するには、いくつかのコンテキスト ツールを使用してジオメトリを修正します。修正操作としては、[傾斜]、[ファセット] (Web 専用)、[コピー]、[貼り付け]、[配列]などがあります。
+
+1. ![](Images/GUID-022529D4-9944-4CDB-ADF6-D08529200147-low.png)面を傾斜させるには、対象の面を選択して右クリックし、コンテキスト メニューを表示します。 コンテキスト メニューから[傾斜]アイコンを選択します。次に、線分を描画して傾斜軸を定義します。さらに、3 番目の点をクリックして、傾斜操作を開始します。
+2. ![](Images/GUID-1884ED02-ADCB-48FF-8673-22ABCD275704-low.png)面にカーソルを合わせると点線が表示される場合は、歪んでいる面が複数の小さな面で構成されていることを意味します。 点線をモデルのエッジに変換するには、最初に面(またはオブジェクト)を選択し、右クリックしてコンテキスト メニューを表示します。コンテキスト メニューから[ファセット]アイコンを選択します。滑らかだった面にエッジが追加されます。
+3. ![](Images/GUID-4096EFD8-2277-4EF8-8295-13308C75CC51-low.png)面、エッジ、またはオブジェクトをコピーして貼り付けるには、最初にそのいずれかを選択し、コンテキスト メニューから[コピー]アイコンを選択します。 コンテキスト メニューをもう一度表示して、貼り付けます。貼り付けるときには、スナップと推定配置点のオプションが表示されます。[Ctrl]キーを長押ししてオブジェクトをドラッグし、すばやくコピーします。
+4. ![](Images/GUID-EE2A0DBE-4C81-493E-8C92-B9656DB45D9B-low.png)エッジ、面、またはオブジェクト全体を配列するには、コンテキスト メニューの[配列]アイコンをクリックします。 直線配列と円形状配列の両方を作成できます。次に、[直線]または[円形状]のどちらかを選択し、その他のパラメータを指定します。移動ツールの場合と同様に、配列を開始するオブジェクトをクリックし、もう一度クリックして、配列化された要素を配置します。
+
+![](Images/GUID-09C2339D-E234-4464-9FC0-44C6435DAFB7-low.png)
+

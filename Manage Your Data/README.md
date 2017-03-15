@@ -1,29 +1,32 @@
-# Manage Your Data
 
-----
 
-Use multiple data formats to preserve and share your designs.
- 
+# データを管理する
 
-Share and save your data in many formats.
+---
 
-  
+さまざまなデータ形式を使用して設計を保持、共有します。
 
-#### Topics in this section
+データはさまざまな形式で共有、保存できます。
 
-* [ Saving Your Work](../Saving Your Work.md)
-    
-    Preserve your designs in multiple formats.
-* [Export Files and Images](../Export Files and Images.md)
-    
-    Save files to your A360 drive or to local storage
-* [ Content Libraries](../Content Libraries/README.md)
-    
-    Use a personal library of frequently used elements like furniture, building elements, or material base files.
-* [About Revit Files](../About Revit Files.md)
-    
-    Save your design in a format that Revit can open and use.
+#### このセクションの内容
+
+* [ 作業内容を保存する](../Saving Your Work.md)
+
+さまざまな形式で設計を保存します。
+
+* [ファイルとイメージを書き出す](../Export Files and Images.md)
+
+ファイルを A360 ドライブまたはローカル ストレージに保存します。
+
+* [ コンテンツ ライブラリ](../Content Libraries/README.md)
+
+家具、建物要素、マテリアルの基本ファイルなど、頻繁に使用する要素を個人的なライブラリにまとめておくことができます。
+
+* [Revit ファイルについて](../About Revit Files.md)
+
+Revit で開いて使用できる形式で設計を保存します。
+
 * [FormIt 360 Converter](../FormIt 360 Converter.md)
-    
-    Convert files from other applications to use within FormIt 360
+
+他のアプリケーションのファイルを変換して FormIt 360 内で使用します。
 

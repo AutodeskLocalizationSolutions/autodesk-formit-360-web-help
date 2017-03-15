@@ -1,25 +1,28 @@
-# Apply a Material
 
-----
 
-Use the Material Editor to place a material on an object or a selected object face.
+# マテリアルを適用する
 
-Materials can be applied to faces or entire objects.
+---
 
-## Apply a Material
+マテリアル エディタを使用して、オブジェクトまたは選択したオブジェクト面にマテリアルを配置します。
 
-1. Click the tab on the right side of the screen and click the icon for the Material Editor.
-2. Hover the mouse pointer over the material you wish to apply. 
-    
-    ![](Images/GUID-32B2789F-F04F-44B4-8924-8CE9FC98E8C1-low.png)
-3. Select the Paintbrush icon.
-4. Click on the face to apply the material to a single face. Double-click to apply the material to an entire object.
+マテリアルは面またはオブジェクト全体に適用できます。
 
-## Apply a Material to a Group
+## マテリアルを適用する
 
-Materials applied to non-grouped objects in the sketch will appear under the heading Main Sketch. There are two options for applying a material to faces and/or objects in a Group: 
-1. *Group Instance*: If you want to apply a material to an entire group AND you do not want that material to be applied to other instances of the group, you can paint the group instance by following the steps above.
-2. *Group Definition*: If you want the material to be applie to ALL instances of the group, first [edit the group](../../../Using Groups/Edit Group.md) and then follow the steps outlined above. The material will then appear under a heading with the name of the group.
+1. 画面の右側にあるタブをクリックし、マテリアル エディタのアイコンをクリックします。
+2. 適用先のマテリアルにマウス ポインタを合わせます。
 
+![](Images/GUID-32B2789F-F04F-44B4-8924-8CE9FC98E8C1-low.png)
+
+3. ペイントブラシのアイコンを選択します。
+4. マテリアルを単一の面に適用するには、面をクリックします。マテリアルをオブジェクト全体に適用するには、ダブルクリックします。
+## マテリアルをグループに適用する
+
+スケッチでグループ化されていないオブジェクトに適用されたマテリアルは、[メイン スケッチ]という見出しの下に表示されます。マテリアルをグループ内の面またはオブジェクトに適用するオプションは 2 つあります。
+
+1. *グループ インスタンス*: マテリアルをグループ全体に適用する際、グループの他のインスタンスには適用する必要がない場合は、上記の手順に従ってグループ インスタンスをペイントできます。
+2. *グループ定義*: マテリアルをグループのすべてのインスタンスに適用する場合は、最初に[グループを編集](../../../Using Groups/Edit Group.md)した後、上記の手順に従います。 これで、グループ名が記載された見出しの下にマテリアルが表示されます。
 
 ![](Images/GUID-498D5F73-CF4B-46F1-9B26-B3AA32233C6D-low.png)
+

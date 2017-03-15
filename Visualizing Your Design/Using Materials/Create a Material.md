@@ -1,24 +1,25 @@
-# Create a Material
-
-----
-
-Use the Material Editor to create new materials to use in your scene.
-
-You can create your own materials based on custom bitmap files.
-
-## Create a Material
-
-1. Click the Add Material Button.
-2. From the [Edit Material](../Edit a Material.md) window, make the necessary changes to the material properties.
-3. Click OK to save the changes to the material.
-
-## Import an Autodesk Material ![](Images/GUID-04CB861E-010B-491D-8CA1-699C79100979-low.png)
-
-If you have purchased the optional [FormIt 360 Pro Subscription](http://www.autodesk.com/products/formit-360/try-buy), you will be able to import materials from the Autodesk Materials library.
 
 
-1. Click Import Material from the Material Palette.
-2. From the Import Material, browse or search by name to select a material to import into the scene and click OK.
-3. The material can now be [applied](../Apply a Material.md) or [edited](../Edit a Material.md) like any other material.
+# マテリアルを作成する
+
+---
+
+マテリアル エディタを使用して、シーンで使用する新しいマテリアルを作成します。
+
+カスタム ビットマップ ファイルに基づいて独自のマテリアルを作成できます。
+
+## マテリアルを作成する
+
+1. [マテリアルを追加]ボタンをクリックします。
+2. [[マテリアルを編集]](../Edit a Material.md)ウィンドウで、マテリアル プロパティに必要な変更を加えます。
+3. [OK]をクリックして、マテリアルの変更内容を保存します。
+## オートデスク マテリアルを読み込む ![](Images/GUID-04CB861E-010B-491D-8CA1-699C79100979-low.png)
+
+オプションの [FormIt 360 Pro Subscription](http://www.autodesk.com/products/formit-360/try-buy) を購入している場合、Autodesk Materials Library からマテリアルを読み込むことができます。
+
+1. マテリアル パレットで、[マテリアルを読み込む]をクリックします。
+2. [マテリアルを読み込む]で、シーンに読み込むマテリアルを参照するか名前で検索して選択し、[OK]をクリックします。
+3. マテリアルが、他のマテリアルと同様に[適用](../Apply a Material.md)または[編集](../Edit a Material.md)できるようになります。
 
 ![](Images/GUID-11B4AA4F-C534-48DA-AAA8-292D07E366F3-low.jpg)
+

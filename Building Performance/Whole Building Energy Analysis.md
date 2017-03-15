@@ -1,24 +1,26 @@
-# Whole Building Energy Analysis
 
-----
 
-Evaluate factors that affect building performance, such a wall insulation and HVAC efficiency.
- 
+# 建物全体のエネルギー解析
 
-Autodesk FormIt 360 Pro Only
+---
 
-The FormIt 360 Pro Energy Analysis feature allows you to better understand how your design will perform based on a number of factors. To get started, you must first set a [Location for your project](../../Location/README.md) and have at least one solid object with [Levels](../../Levels and Space Usage/README.md) applied. Click the Energy Analysis button to start the analysis process.
+壁の断熱、HVAC 効率など、建物パフォーマンスに影響を及ぼす要素を評価します。
+
+Autodesk Formit 360 Pro のみ
+
+FormIt 360 Pro のエネルギー解析機能を使用すると、多くの要因に基づいて設計のパフォーマンスがどのように変化するかを明確に把握できます。この機能を使用するには、まず、[プロジェクトの位置](../../Location/README.md)を設定し、少なくとも 1 つのソリッド オブジェクトに[レベル](../../Levels and Space Usage/README.md)を適用する必要があります。 [エネルギー解析]ボタンをクリックして、解析プロセスを開始します。
 
 ![](Images/GUID-4B5571DF-D3B2-4693-85FF-5BED468431BB-low.png)
 
-The model will be converted and sent to the Green Building Studio for analysis. When the results are ready, you will receive an email. Open the Energy Analysis Dashboard by clicking View Results.
+モデルは変換されると Green Building Studio に送信されて解析されます。結果が出ると電子メールを受け取ります。[結果を表示]をクリックして[エネルギー解析]ダッシュボードを開きます。
 
 ![](Images/GUID-03129DAE-2F26-4B2A-A392-25C217C5266C-low.png)
 
-The Energy Analysis Dashboard now contains a 3D view of the energy model, a history of previous runs, and the Energy Cost Range (ECR). The range shows the mean, minimum, and maximum energy cost from batch runs of whole building energy simulations for a range of typical design and operational factors. The ECR also includes the [Architecture 2030](http://architecture2030.org/2030_challenge/the_2030_challenge) benchmark for your project. This benchmark provides a way to understand the relative performance of your project by comparing to this popular target. The Architecture 2030 benchmark is calculated as a percentage (currently 60%) of real historical building energy use gathered from extensive surveys. The ECR contains, and is ultimately driven by individual factors, each of which relate to different aspects of building features that influence building energy use.
+[エネルギー解析]ダッシュボードには現在、エネルギー モデルの 3D ビュー、これまでに実行された解析の履歴、エネルギー コスト範囲(ECR)が表示されます。ECR には建物全体のエネルギー コストの平均値、最小値、最大値が表示されます。これらの値は、一般的な設計や運用要素を幅広く適用し、まとめてシミュレーションすることにより算出されます。ECR にはプロジェクト向けに [Architecture 2030](http://architecture2030.org/2030_challenge/the_2030_challenge) ベンチマークも表示されます。 この一般的なベンチマークとプロジェクトを比較することにより、プロジェクトのパフォーマンスを相対的に確認できます。Architecture 2030 ベンチマークは、大規模な調査に基づいて特定された過去の実際の建物エネルギー使用の割合(現在は 60%)に応じて算出されます。ECR には個々の要因に基づいて値が表示されます。各要因は、建物エネルギーの使用に影響を与える建物フィーチャのさまざまな側面に関係しています。
 
 ![](Images/GUID-C96F9F10-F0AB-4F52-B6E3-94D184E5DB28-low.jpg)
 
-When you open a Factor Widget, you can vary the factors to see how it affects the Energy Cost Mean.
+要因ウィジェットを開くと、要因を変化させて、それがエネルギー コストの平均値にどのように影響するかを確認することができます。
 
 ![](Images/GUID-3E6202EB-6402-4C51-877A-76363729359A-low.png)
+

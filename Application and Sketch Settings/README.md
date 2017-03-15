@@ -1,22 +1,23 @@
-# Application and Sketch Settings
 
-----
 
-Modify application-wide and sketch-specific settings to change how the app and individual sketches appear and behave.
-  
-* Modify application-wide settings to change how the entire FormIt 360 app appears and behaves.
-* Modify sketch-specific settings to change how the current open sketch appears and behaves.
- 
+# アプリケーションとスケッチの設定
+
+---
+
+アプリケーション全体の設定やスケッチ固有の設定を修正し、アプリケーションと各スケッチの表示および動作方法を変更します。
+
+* アプリケーション全体の設定を修正し、FormIt 360 アプリケーション全体の表示および動作方法を変更します。
+* スケッチ固有の設定を修正し、現在開いているスケッチの表示および動作方法を変更します。
+
 * ![](Images/GUID-5F96059C-1A35-4067-BA6F-52429737CD66-low.png)
 
-  
+#### このセクションの内容
 
-#### Topics in this section
+* [スケッチ設定 ](../Sketch Settings.md)
 
-* [Sketch Settings ](../Sketch Settings.md)
-    
-    Change sketch-specific settings to change how the current sketch appears and behaves.
-* [Application Settings](../Application Settings.md)
-    
-    Modify application-wide settings to change how the entire FormIt 360 app appears and behaves.
+スケッチ固有の設定を修正し、現在のスケッチの表示および動作方法を変更します。
+
+* [アプリケーション設定](../Application Settings.md)
+
+アプリケーション全体の設定を修正し、FormIt 360 アプリケーション全体の表示および動作方法を変更します。
 

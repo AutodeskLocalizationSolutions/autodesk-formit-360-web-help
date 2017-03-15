@@ -1,23 +1,26 @@
-# Start and Stop Collaborative Sessions
 
-----
 
-Invite other people to work on the same design project.
+# コラボレーション セッションを開始および停止する
 
-Share your work with others.
+---
 
-## Starting a Sharing Session
+同じ設計プロジェクトで作業できるように、他のユーザを招待します。
 
-* Click the share icon on the far right side of the tool bar. If you are not already logged in, you will be asked to sign in with your [Autodesk 360](https://360.autodesk.com) account. Then, click on the 'Start Sharing Session' option. 
-    
-    A dialog will appear for you to invite others. Upon successfully starting a session, you will see an icon with your Autodesk 360 avatar appear on the Collaboration tab.
-    
-    ![](Images/GUID-40867A15-1DBD-44E0-A879-55DF1F922400-low.png)
+他のユーザと作業内容を共有できます。
 
-## Ending a Session
+## 共有セッションを開始する
 
-* Select 'End Sharing Session' from the collaboration drop down menu. 
-    
-    A guest cannot end a sharing session.
-    
-    ![](Images/GUID-EF2ADF33-36F3-453C-924E-AB787C0349F0-low.png)
+* ツールバーの右端にある[共有]アイコンをクリックします。まだログインしていない場合は、[Autodesk 360](https://360.autodesk.com) アカウントにサインインするように求められます。 次に、[共有セッションを開始]オプションをクリックします。
+
+他のユーザを招待するためのダイアログが表示されます。セッションが正常に開始されると、[コラボレーション]タブに、Autodesk 360 のアバターがアイコンとして表示されます。
+
+![](Images/GUID-40867A15-1DBD-44E0-A879-55DF1F922400-low.png)
+
+## セッションを終了する
+
+* [コラボレーション]ドロップダウン メニューで[共有セッションを終了]を選択します。
+
+ゲストは共有セッションを終了できません。
+
+![](Images/GUID-EF2ADF33-36F3-453C-924E-AB787C0349F0-low.png)
+

@@ -1,27 +1,28 @@
-# Using Materials
 
-----
 
-Enrich and enhance designs using Materials to add detail.
- 
+# マテリアルを使用する
 
-The Material Editor is located in the right-side palette. In the Editor, you can create new materials and add them to your Material Library. To add color to a material, you can use the color picker to accurately set the tint for the material or select a predefined color swatch.
+---
 
-* You can use one of the sample materials from the included library, you can create your own, or you can import a material from the Autodesk Material Library (available for the [FormIt 360 Pro Subscription](http://www.autodesk.com/products/formit-360/try-buy) only.) Materials allow you to add detail to the geometry in your sketch. 
-    
-    ![](Images/GUID-93C9AD0C-B9D5-4336-9762-DBCA5BAB3F03-low.png)
+マテリアルを使用して詳細を追加することにより、内容が充実した高度な設計を作成できます。
 
-  
+マテリアル エディタは右側のパレットにあります。エディタで新しいマテリアルを作成し、[マテリアル ライブラリ]に追加できます。マテリアルにカラーを追加するには、カラー ピッカーを使用してマテリアルの着色を正確に設定するか、設定済みの色見本を選択します。
 
-#### Topics in this section
+* 組み込みのライブラリからいずれかのサンプル マテリアルを使用することも、独自のマテリアルを作成することも、Autodesk Material Library ([FormIt 360 Pro Subscription](http://www.autodesk.com/products/formit-360/try-buy) を購入している場合にのみ使用可能)からマテリアルを読み込むこともできます。 マテリアルを使用すると、スケッチ内のジオメトリに詳細を追加できます。
 
-* [Create a Material](../Create a Material.md)
-    
-    Use the Material Editor to create new materials to use in your scene.
-* [Edit a Material](../Edit a Material.md)
-    
-    Use the Material Editor to make materials appear exactly as you want.
-* [Apply a Material](../Apply a Material.md)
-    
-    Use the Material Editor to place a material on an object or a selected object face.
+![](Images/GUID-93C9AD0C-B9D5-4336-9762-DBCA5BAB3F03-low.png)
+
+#### このセクションの内容
+
+* [マテリアルを作成する](../Create a Material.md)
+
+マテリアル エディタを使用して、シーンで使用する新しいマテリアルを作成します。
+
+* [マテリアルを編集する](../Edit a Material.md)
+
+マテリアル エディタを使用して、マテリアルを希望どおりに正確に表示します。
+
+* [マテリアルを適用する](../Apply a Material.md)
+
+マテリアル エディタを使用して、オブジェクトまたは選択したオブジェクト面にマテリアルを配置します。
 

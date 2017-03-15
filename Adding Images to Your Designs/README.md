@@ -1,21 +1,20 @@
-# Adding Images to Your Designs
 
-----
 
-Use ground overlays and other images to add clarity and realism to a design.
- 
+# イメージを設計に追加する
 
-You can use image files in multiple ways, such as ground overlays to add additional data to a sketch or to trace over. After an image has been imported as a ground overlay, you can use the palette on the right-side of the screen to modify the image's properties. From the palette, you can edit the image's name and transparency. You can even manage all the ground overlays including any satellite imagery you brought in using the Vertical Order tool.
+---
+
+地面オーバーレイやその他のイメージを適用することにより、設計を見やすくして現実感を加えます。
+
+イメージ ファイルはさまざまな用途に使用できます。たとえば、地面オーバーレイを使用すると、スケッチへのデータの追加やトレースを行うことができます。イメージを地面オーバーレイとして読み込んだ後は、画面の右側にあるパレットを使用して、イメージのプロパティを修正できます。パレットではイメージの名前と透過度を編集できます。また、[縦方向に表示]ツールを使用すると、取り込んだ衛星画像を含め、すべての地面オーバーレイを管理できます。
 
 * ![](Images/GUID-911B5932-8342-4CCF-BBAF-B761959F482B-low.jpg)
 
-Vertical Order provides a way to stack overlays according to your needs.
+[縦方向に表示]では、必要に応じてオーバーレイを積み重ねることができます。
 
-  
+#### このセクションの内容
 
-#### Topics in this section
+* [地面オーバーレイ イメージを読み込み、修正する](../Import and Modify Ground Overlay Images.md)
 
-* [Import and Modify Ground Overlay Images](../Import and Modify Ground Overlay Images.md)
-    
-    Acquire images for your design canvas and alter them if desired.
+設計キャンバスのイメージを取得し、必要に応じて変更します。
 

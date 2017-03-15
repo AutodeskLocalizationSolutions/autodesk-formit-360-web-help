@@ -1,28 +1,34 @@
-# Edit a Material
 
-----
 
-Use the Material Editor to make materials appear exactly as you want.
+# マテリアルを編集する
 
-The texture, color, and other properties of Materials can be modified in the Material Editor.
+---
 
-## Edit a Material
+マテリアル エディタを使用して、マテリアルを希望どおりに正確に表示します。
 
-1. Select a material.
-2. Choose the Edit icon.
+テクスチャ、カラーなど、マテリアルのプロパティはマテリアル エディタで修正できます。
+
+## マテリアルを編集する
+
+1. マテリアルを選択します。
+2. [編集]アイコンを選択します。
 
 3. ![](Images/GUID-71FCAC8F-6698-4ACF-B681-A9DA8AE9C84C-low.png)
 
-4. From the Edit Material window, you can change the following properties - which will update the preview image on the right. 
-    * *Name*: To help identify the material
-    * *Texture*:Textures are images loaded from your local drive. Once imported, you can crop, and edit the horizontal and vertical scale of the texture. 
-        
-        ![](Images/GUID-9EEAD5EE-D2B7-491B-A947-79E865878C17-low.png)
-    * *Color*: When a material has both texture and color, the two are multiplied together.
-    * *Bump*: Load a texture to apply bumpiness based on the image.
-    * *Cutout*: Load a black and white bitmap. The white areas will appear solid and the black areas will be transparent.
-    * *Opacity*: A higher value means the material will be more transparent.
-    * *Gloss*: A higher value will add a shiny gloss effect to the material.
-    * *Reflection Direct*: A higher value will increase the amount of reflectivity visible when looking directly at a face.
-    * *Reflection: Oblique*: A higher value will increase the amount of reflectivity visible when looking at a face from an oblique angle.
-5. Click OK to save the changes to the material.
+4. [マテリアルを編集]ウィンドウでは、次のプロパティを変更できます。変更すると、右側にあるプレビュー イメージが更新されます。
+
+* *名前*: マテリアルを識別できるようにします。
+* *テクスチャ*: テクスチャはローカル ドライブからロードされるイメージです。 読み込まれると、テクスチャの水平スケールと垂直スケールをトリミング、編集できます。
+
+![](Images/GUID-9EEAD5EE-D2B7-491B-A947-79E865878C17-low.png)
+
+* *カラー*: マテリアルにテクスチャとカラーの両方を設定すると、それらが掛け合わせられます。
+* *バンプ*: テクスチャをロードし、イメージに基づいて凹凸を適用します。
+* *カットアウト*: 白黒のビットマップをロードします。 白色領域はソリッドととして表示され、黒色領域は透明になります。
+* *透過性*: 値が大きくなるほどマテリアルは透明になります。
+* *光沢*: 値が大きくなるほどマテリアルの光沢が増します。
+* *反射: 正面*: 値が大きくなるほど面を正面から見た場合の可視反射量が大きくなります。
+* *反射: 斜め*: 値が大きくなるほど面を斜めから見た場合の可視反射量が大きくなります。
+
+5. [OK]をクリックして、マテリアルの変更内容を保存します。
+

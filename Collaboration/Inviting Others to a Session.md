@@ -1,14 +1,16 @@
-# Inviting Others to a Session
 
-----
 
-Create a collaboration team.
- 
+# 他のユーザをセッションに招待する
 
-## Inviting Others to a Session
+---
 
-* Click on the 'Invite Others' option from the collaboration drop down menu in the toolbar.
-    
-    ![](Images/GUID-03AAC963-3FA7-459C-8E8D-61AE53A483B4-low.png)
-    
-    You will see a dialog with a session ID for sharing with an iOS user, and a URL for Web sharing. You can copy and share these items or you can click the 'Send Email' button. An email will be automatically generated that you can send to your collaborators. See [Joining a Session](../Joining a Session.md)for more info on how you can join a session on your iOS or Web device. For desktop Web clients, click on the URL in the email to join a session you were invited to.
+コラボレーション チームを作成します。
+
+## 他のユーザをセッションに招待する
+
+* ツールバーの[コラボレーション]ドロップダウン メニューで、[ユーザを招待]をクリックします。
+
+![](Images/GUID-03AAC963-3FA7-459C-8E8D-61AE53A483B4-low.png)
+
+ダイアログが表示され、iOS ユーザとの共有に使用するセッション ID と、Web ユーザとの共有に使用する URL が示されます。これらの情報はコピーして共有することも、[電子メールで送信]ボタンをクリックして送信することもできます。電子メールが自動的に生成され、共有メンバーに送信することができます。iOS または Web デバイスからセッションに参加する方法の詳細については、「[セッションに参加する](../Joining a Session.md)」を参照してください。 デスクトップ Web クライアントを使用している場合は、電子メールに記載されている URL をクリックし、招待されたセッションに参加してください。
+

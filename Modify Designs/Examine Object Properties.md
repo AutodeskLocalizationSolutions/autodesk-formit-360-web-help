@@ -1,13 +1,16 @@
-# Examine Object Properties
 
-----
 
-View or change a building object's name or its volume/area and level values.
+# オブジェクトのプロパティを調べる
 
-## Modify Properties and Enable Space Updates
+---
 
-1. To edit the properties of individual objects in a sketch, just double tap to select the entire object and open the right-side palette to the Properties tab.
-2. Edit the object's name, see its volume/area, toggle to see Area by Levels, and add or edit level values.
-3. To automatically update the Gross Area and Floor Area Ratio for the entire sketch, turn on the Apply Area by Level toggle for each object. 
-    
-    ![](Images/GUID-2FDBB00A-5D7C-415F-A8B5-54C4FEC558D0-low.png)
+建物オブジェクトの名前、体積、面積、レベル値を表示または変更します。
+
+## プロパティを修正してスペースの更新を有効にする
+
+1. スケッチ内の個々のオブジェクトのプロパティを編集するには、オブジェクト全体をダブル タップして選択し、右側にあるパレットを開いて[プロパティ]タブに移動します。
+2. オブジェクトの名前の編集、体積と面積の確認、[レベル別の領域]の切り替えと確認、レベル値の追加や編集を行います。
+3. スケッチ全体の[総面積]と[床面積率]を自動的に更新するには、オブジェクトごとに[レベル別の領域を適用]をオンに切り替えます。
+
+![](Images/GUID-2FDBB00A-5D7C-415F-A8B5-54C4FEC558D0-low.png)
+

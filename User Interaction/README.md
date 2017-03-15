@@ -1,33 +1,36 @@
-# User Interaction
 
-----
 
-Locate the tools to create and place designs.
- 
+# ユーザ操作
 
-The software's user interface makes use of a particular platform's standard interaction model.
+---
 
-* The key components of the FormIt 360 interface (see [Navigation Tools](../Navigation Tools.md) for tips about interacting with the FormIt 360 software): 
-    
-    ![](Images/GUID-8E20A1F0-773E-4AAC-A31E-B37BF8314086-low.png)
+設計を作成して配置するためのツールを見つけます。
 
-  
+ユーザ インタフェースには、特定のプラットフォームの標準的な操作モデルが採用されています。
 
-#### Topics in this section
+* FormIt 360 インタフェースの主要コンポーネントは、次のとおりです(FormIt 360 の操作のヒントについては、「[ナビゲーション ツール](../Navigation Tools.md)」を参照してください)。
 
-* [Context Menu and Right-Side Palettes](../Context Menu and Right-Side Palettes.md)
-    
-    Locate the tools to create and place designs.
-* [User Interface Tools ](../User Interface Tools.md)
-    
-    Reference for command interaction tools.
-* [Project Information Reference ](../Project Information Reference.md)
-    
-    Name your design and keep track of its status.
-* [Navigation Tools](../Navigation Tools.md)
-    
-    Use these movements to engage the user interface.
-* [Keyboard Shortcuts ](../Keyboard Shortcuts.md)
-    
-    Speed up your design work with keyboard shortcuts.
+![](Images/GUID-8E20A1F0-773E-4AAC-A31E-B37BF8314086-low.png)
+
+#### このセクションの内容
+
+* [コンテキスト メニューと右側のパレット](../Context Menu and Right-Side Palettes.md)
+
+設計を作成して配置するためのツールを見つけます。
+
+* [ユーザ インタフェース ツール ](../User Interface Tools.md)
+
+コマンド操作ツールを紹介します。
+
+* [プロジェクト情報の参照 ](../Project Information Reference.md)
+
+設計に名前を付けてステータスを追跡します。
+
+* [ナビゲーション ツール](../Navigation Tools.md)
+
+ツールを使用して移動し、ユーザ インタフェースを使用します。
+
+* [キーボード ショートカット](../Keyboard Shortcuts.md)
+
+キーボード ショートカットを使用して設計作業の速度を上げます。
 

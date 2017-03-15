@@ -1,20 +1,24 @@
-# Layers
 
-----
 
-Use the layers to control the visibility of individual objects.
+# レイヤ
 
-## Create and Modify Layers
+---
 
-1. Click Add Layer in the Layer palette to create a new layer.
-2. Double click on the name to rename the layer.
-3. To add objects to the layer, select one or more objects in the scene and then choose the desired layer from the Selection On drop down list.
+レイヤを使用して各オブジェクトの表示をコントロールします。
+
+## レイヤを作成、修正する
+
+1. レイヤ パレットの[レイヤを追加]をクリックし、新しいレイヤを作成します。
+2. 名前をダブルクリックし、レイヤ名を変更します。
+3. オブジェクトをレイヤに追加するには、シーンで 1 つまたは複数のオブジェクトを選択し、[選択:]ドロップダウン リストから目的のレイヤを選択します。
 
 ![](Images/GUID-1815191F-259D-4AD1-AE20-045BE5AE79A8-low.png)
-## Using Layers
 
-1. To turn the layer visibility off, click the checkbox next to the layer name.
-2. To select all object(s) on the layer, click the selection icon next to the layer name
-3. To delete a layer, click the trash icon next to the layer name. Only the layer, not the objects assigned to the layer, will be deleted.
+## レイヤを使用する
+
+1. レイヤの表示をオフにするには、レイヤ名の横にあるチェック ボックスをクリックします。
+2. レイヤ上のすべてのオブジェクトを選択するには、レイヤ名の横にある選択アイコンをクリックします。
+3. レイヤを削除するには、レイヤ名の横にあるごみ箱アイコンをクリックします。レイヤのみが削除されます。レイヤに関連付けられているオブジェクトは削除されません。
 
 ![](Images/GUID-F61EED3A-A415-468F-A8B3-F4935ACA7697-low.png)
+

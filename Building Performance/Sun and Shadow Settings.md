@@ -1,11 +1,14 @@
-# Sun and Shadow Settings
 
-----
 
-Control the angle of the shadows at your locations by setting date and time.
+# 太陽と影の設定
 
-* You can control the sun path and shadows by clicking Shadows and setting the date and time for each sketch. 
-    
-    ![](Images/GUID-669EF0F3-7F29-413A-9783-E9EB55FEB111-low.png)
+---
 
-Sun and shadows settings can be edited by tapping on the sun icon in the bottom toolbar. First, toggle on shadows. Then, use the slider or pick a specific date and time to set the position of the sun.
+日付と時刻を設定することにより、現在位置における影の角度をコントロールします。
+
+* 太陽の軌道と影をコントロールするには、[影]をクリックし、スケッチごとに日時を設定します。
+
+![](Images/GUID-669EF0F3-7F29-413A-9783-E9EB55FEB111-low.png)
+
+太陽と影の設定を編集するには、下部にあるツールバーで太陽アイコンをタップします。最初に、影をオンにします。次に、スライダを使用するか、特定の日時を選択して、太陽の位置を設定します。
+

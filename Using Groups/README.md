@@ -1,44 +1,49 @@
-# Using Groups
 
-----
 
-Bundle together one or more objects into clusters that you can easily manipulate.
- 
+# グループを使用する
 
-Groups help you create geometry more efficiently.
+---
 
-* After you create objects by placing primitives or sketching shapes, you can group sets of them together so that they are treated as a single reusable object. You can copy a group to create *instances*, objects that are linked so that making changes to one will update the others. Groups are useful for organizing your sketch and when you quickly want to update similar objects.
-* A toolbar provides ready access to the grouping tools: Group, Ungroup, Make Unique, and Edit (these tools also appear on the Context Menu). The Toolbar tools let you choose an action first, followed by the object on which you want to execute the action. The Context menu reverses this order (at the cost of one extra click): You choose an object first and then choose an action to perform on that object. This action/selection order makes Toolbar Edit the better choice to edit nested groups. You can also use keyboard shortcuts: G, E, F (Group, Edit, Finish) plus U (Ungroup) and M (Make Unique).
+1 つまたは複数のオブジェクトをクラスタにまとめることで操作が容易になります。
+
+グループ化を使用すると、ジオメトリをより効率的に作成できます。
+
+* プリミティブを配置するか、形状をスケッチしてオブジェクトを作成した後、これらをまとめてグループ化することにより、再利用可能な単一オブジェクトとして処理することができます。1 つのグループをコピーして*インスタンス*を作成できます。インスタンスはリンクされているオブジェクト群であり、1 つのオブジェクトを変更すると他のすべてのオブジェクトも更新されます。 グループ化はスケッチを編成する場合や、類似オブジェクトをすばやく更新する必要がある場合に役立ちます。
+* ツールバーを使用すると、グループ関連のツール([グループ化]、[グループ化の解除]、[ユニークにする]、[編集])にすばやくアクセスできます。これらのツールはコンテキスト メニューにも表示されます。ツールバーのツールを使用する場合は、最初に操作を選択し、次に操作の実行対象であるオブジェクトを選択します。コンテキスト メニューではこの順序が逆になります(クリック操作がさらに 1 回必要です)。最初にオブジェクトを選択し、次にそのオブジェクトに実行する操作を選択します。この操作/選択の順序の関係で、ツールバーの[編集]を使用すると、ネストされたグループは編集しやすくなります。また、G ([グループ化])、E ([編集])、F ([完了])、U ([グループ化の解除])、M ([ユニークにする])などのキーボード ショートカットを使用することもできます。
 
 ![](Images/GUID-5309CD68-890C-421C-B91E-A291EC5DD99B-low.png) ![](Images/GUID-1A6C63E4-89A5-4C7C-BCC2-F540265090AF-low.png)
 
-Only certain elements of an object can be grouped: an entire object, a face, and an independent edge. Vertices and owned edges cannot be grouped.
+グループ化できるオブジェクト要素は、オブジェクト全体、面、独立しているエッジのみです。頂点および所有されているエッジはグループ化できません。
 
-You can create an array of objects from a single instance and select a check box to group the arrayed objects.
+単一のインスタンスからオブジェクトの配列を作成し、チェック ボックスをオンにして、配列化したオブジェクトをグループ化します。
 
 ![](Images/GUID-75F6387F-7417-4F0A-A20D-D929B6163893-low.png)
 
-  
+#### このセクションの内容
 
-#### Topics in this section
+* [オブジェクトをグループ化する/グループ化を解除する](../Group-Ungroup Objects.md)
 
-* [Group/Ungroup Objects](../Group-Ungroup Objects.md)
-    
-    Place geometry into clusters to allow easier manipulation.
-* [Edit Group](../Edit Group.md)
-    
-    Update or make changes to an existing group.
-* [Make Group Unique](../Make Group Unique.md)
-    
-    Copy a set of objects and then disconnect them from the original Group definition.
-* [Nest Groups](../Nest Groups.md)
-    
-    Cluster like elements within a design.
-* [Scale a Group](../Scale a Group.md)
-    
-    Scale a Group instance while maintaining the relationship to other instances
-* [Apply Levels and Materials to a Group ](../Apply Levels and Materials to a Group.md)
-    
-    A way to affect many objects at once.
-* [Group Axes and Work Planes](../Group Axes and Work Planes.md)
+操作を容易にするため、ジオメトリをクラスタにまとめます。
+
+* [グループを編集する](../Edit Group.md)
+
+既存のグループを更新または変更します。
+
+* [グループをユニークにする](../Make Group Unique.md)
+
+オブジェクト セットをコピーした後、元のグループ定義から切り離します。
+
+* [グループをネストする](../Nest Groups.md)
+
+設計内の類似した要素をクラスタ化します。
+
+* [グループを拡大/縮小する](../Scale a Group.md)
+
+他のインスタンスとの関係性を維持しながらグループ インスタンスを拡大/縮小します。
+
+* [レベルとマテリアルをグループに適用する](../Apply Levels and Materials to a Group.md)
+
+多数のオブジェクトに対して一度に適用できる方法です。
+
+* [グループ軸と作業面](../Group Axes and Work Planes.md)
 

@@ -1,21 +1,26 @@
-# About Smart Selection
 
-----
 
-The TAB key provides a way to make selecting similar objects easier.
- 
+# スマート選択について
 
-Accelerate the pace of geometry placement and modification by using the TAB key.
+---
 
-* Select same sized faces: Hover over a face, hit the tab key, all the faces on the solid that are the same size highlight - single click to select them all. 
-    
-    ![](Images/GUID-CDD414C8-F9F3-4D1C-A724-0DDC695E25CF-low.png)
-* Select cluster of faces: Hover over a face that is part of a cluster of faces, hit the tab key twice, all the faces that are part of the cluster highlight - single click to select them all 
-    
-    ![](Images/GUID-6A9CDC01-BD09-4989-BF70-E01F254F414D-low.png)
-* Select same sized cluster of faces: Hover over a face that is part of a cluster of faces, hit the tab key three times, all the clusters of faces that are the same size on the solid highlight - single click to select them all 
-    
-    ![](Images/GUID-98DC97B8-7C56-47A9-9E6E-DC58A68F43E6-low.png)
-* Depth selection: Hover over a face that is on top of a group instance, hit the space bar to cycle through selection options are in the same plane, click to select the face you want 
-    
-    ![](Images/GUID-FFE03635-3BBC-438F-BAF4-B3BCD4C78393-low.png)
+[Tab]キーを使用すると、類似オブジェクトを簡単に選択できます。
+
+[Tab]キーを使用して、ジオメトリの配置と修正をすばやく行いましょう。
+
+* 同じサイズの面の選択: 面にカーソルを合わせて[Tab]キーを押すと、ソリッド上でサイズが同じであるすべての面がハイライトされます。シングル クリックですべての面が選択されます。
+
+![](Images/GUID-CDD414C8-F9F3-4D1C-A724-0DDC695E25CF-low.png)
+
+* 面集団の選択: 面集団のいずれかの面にカーソルを合わせて[Tab]キーを 2 回押すと、集団に含まれているすべての面がハイライトされます。シングル クリックで面集団全体が選択されます。
+
+![](Images/GUID-6A9CDC01-BD09-4989-BF70-E01F254F414D-low.png)
+
+* 同じサイズの面集団の選択: 面集団のいずれかの面にカーソルを合わせて[Tab]キーを 3 回押すと、ソリッド上でサイズが同じであるすべての面集団がハイライトされます。シングル クリックですべての面集団が選択されます。
+
+![](Images/GUID-98DC97B8-7C56-47A9-9E6E-DC58A68F43E6-low.png)
+
+* 深度選択: グループ インスタンスの一番上にある面にカーソルを合わせて[Spacebar]を押し、選択オプションを切り替え、同じ平面上にあるいずれかの面をクリックして選択します。
+
+![](Images/GUID-FFE03635-3BBC-438F-BAF4-B3BCD4C78393-low.png)
+

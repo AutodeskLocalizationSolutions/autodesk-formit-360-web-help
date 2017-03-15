@@ -1,51 +1,51 @@
-# Navigation Tools
-
-----
-
-Use these movements to engage the user interface.
- 
-
-Key tools for moving around the design area.
-
-### View Modes
-
-| | |
-| ---- | ---- |
-| Top View   |   View your project from a top view. You cannot orbit when in this view, but pan and zoom work normally. This view is especially useful when sketching floor plans over an imported sketch, or satellite image.   |
-| 3D View   |   This is the perspective view that FormIt 360 starts in. You can orbit, pan, and zoom to view and edit your model.   |
-| Fly-Through Mode   |   Enter a First person perspective mode at ground level. Your editing tools are disabled, but you can walk or fly-through your model using your keyboard and space bar. When you exit this mode using the esc key, you return to 3D View mode, your point of view is maintained.   |
 
 
-### Navigating the View
+# ナビゲーション ツール
 
-| | | |
-| ---- | ---- | ---- |
-| Pan   |   Middle mouse button press and drag   |     |
-| Orbit   |   Mouse right-click and drag   |     |
-| Zoom in and out   |   Middle mouse scroll wheel   |     |
+---
 
+ツールを使用して移動し、ユーザ インタフェースを使用します。
 
-### Create Geometry Gestures
+設計領域内を移動するための主要なツールを紹介します。
 
-| | | |
-| ---- | ---- | ---- |
-| Copy Objects   |   Select object, ctrl+C, then click ctrl+V   |   ![](Images/GUID-259ECCFB-1E73-4F8D-841F-E9DBBCCA2703-low.png)   |
-| Draw 2D Shapes   |   Click on the line, arc, spline, circle, or rectangle tool, then click in canvas to draw.   |   ![](Images/GUID-480B99B0-30BB-47AD-A5A5-00489289F5B5-low.png)   |
-| Extrude Shapes   |   Click to select a face, then click and drag your mouse - click again to finish extruding a face.   |   ![](Images/GUID-CAF089B7-8EA3-4ECD-B5F6-A6737FAA26F4-low.png)   |
-| Place a Primitive   |   Click on primitive from action bar, then click in the canvas.   |   ![](Images/GUID-853590B0-9195-466B-AFBF-C4A8332DAEEC-low.png)   |
-
-
-#### Fly-Through Mode
-
-* ![](Images/GUID-D21822AD-1980-43E9-8510-8434062E959D-low.png)Fly-through mode lets you choose a perspective for the camera angle view of your design. It also lets you perform an automated aerial overview of the drawing area. Use the Jet Pack icon to enter fly-through mode.
-
-### Fly-Through Mode Keyboard Controls
+### ビュー モード
 
 | | |
 | ---- | ---- |
-| Walk   |   W moves forward, S moves backwards, A moves left, D moves right   |
-| Climb   |   Q steps up, E steps down   |
-| Jet Pack   |   Space bar lifts off   |
-| Look Around   |   Mouse point to where you want to look   |
-| Exit   |   Press esc to exit Fly-through mode   |
+|上部ビュー|プロジェクトを上部から表示します。このビューでは回転を実行できませんが、画面移動とズームは正常に機能します。このビューは、読み込んだスケッチや衛星画像に平面図をスケッチする場合に特に役立ちます。|
+|3D ビュー|FormIt 360 はこのパース ビューで起動します。回転、画面移動、ズームを実行し、モデルを表示、編集できます。|
+|フライスルー モード|地盤面からの主観視点によるパース モードです。編集ツールは無効になりますが、キーボードや[Spacebar]を使用してモデルをウォークスルーまたはフライスルーできます。[Esc]キーを使用してこのモードを終了すると 3D ビュー モードに戻りますが、視点は維持されます。|
+
+### ビューのナビゲーション
+
+| | | |
+| ---- | ---- | ---- |
+|画面移動|中マウス ボタンをクリックしてドラッグします|
+|
+|オービット|マウスを右クリックしてドラッグします|
+|
+|ズームインおよびズームアウト|マウス中央のスクロール ホイールを使用します|
+
+### ジオメトリを作成するためのジェスチャ
+
+| | | |
+| ---- | ---- | ---- |
+|オブジェクトをコピーする|オブジェクトを選択し、[Ctrl]+[C]、[Ctrl]+[V]をクリックします。|![](Images/GUID-259ECCFB-1E73-4F8D-841F-E9DBBCCA2703-low.png)|
+|2D シェイプを描画する|[線分]、[円弧]、[スプライン]、[円]、または[長方形]ツールをクリックし、キャンバス内でクリックして描画します。|![](Images/GUID-480B99B0-30BB-47AD-A5A5-00489289F5B5-low.png)|
+|シェイプを押し出す|面をクリックして選択した後、クリックしてマウスをドラッグします。面の押し出しを終了するにはもう一度クリックします。|![](Images/GUID-CAF089B7-8EA3-4ECD-B5F6-A6737FAA26F4-low.png)|
+|プリミティブを配置する|アクション バーでプリミティブをクリックし、キャンバス内をクリックします。|![](Images/GUID-853590B0-9195-466B-AFBF-C4A8332DAEEC-low.png)|
+
+#### フライスルー モード
+
+* ![](Images/GUID-D21822AD-1980-43E9-8510-8434062E959D-low.png)フライスルー モードを使用すると、カメラ角度の視点を選択して設計を表示できます。 また、作図領域全体を上空から自動的に表示することもできます。フライスルー モードに入るには、[ジェット パック]アイコンを使用します。
+
+### フライスルー モードのキーボード コントロール
+
+| | |
+| ---- | ---- |
+|ウォーク|[W]で前方に移動し、[S]で後方に移動し、[A]で左に移動し、[D]で右に移動します|
+|クライム|[Q]で上昇し、[E]で下降します|
+|ジェット パック|[Spacebar]で離昇します|
+|周囲を見回す|見たい位置にマウス カーソルを合わせます|
+|終了|[Esc]をクリックするとフライスルー モードが終了します|
 

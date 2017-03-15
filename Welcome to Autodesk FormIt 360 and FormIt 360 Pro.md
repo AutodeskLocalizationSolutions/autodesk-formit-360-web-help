@@ -1,18 +1,20 @@
-# Welcome to Autodesk FormIt 360 and FormIt 360 Pro
 
-----
 
-Discover how to create conceptual building designs while initiating a BIM workflow.
- 
+# Autodesk FormIt 360 および FormIt 360 Pro へようこそ
 
-Use Autodesk ®  FormIt ®  360 to capture building design concepts when ideas occur. Create those ideas in a portable digital format that can use real-world site information, such as satellite images, to orient your designs. Use real building and environmental data to support design brainstorming. Move your preliminary designs to centralized data storage for access and refinement in Autodesk ®  Revit ®  software or other applications.
+---
 
-[Autodesk ®  FormIt ®  360 Pro](http://www.autodesk.com/store/formit-360?licenseType=cloudSub&term=monthly) provides additional features, including:
+このセクションでは、BIM ワークフローを使用してコンセプト建物モデルを作成する方法について説明します。
 
-Visit the[ FormIt 360 YouTube Channel](https://www.youtube.com/channel/UCdZJr6Bo4pwBu3lQqcxlDsw) to view the full list of tutorial videos.
+Autodesk® FormIt® 360 を使用すると、思いついたアイデアをすぐに建築設計コンセプトとして具体化することができます。 これらのアイデアをポータブルなディジタル形式として作成し、実際の現場の情報(衛星画像など)を使用して、適切に設計を進めることができます。実際の建築データや環境データを使用して、設計のブレインストームを行ってください。予備設計を中央のデータ ストレージに保管すると、Autodesk® Revit® などのソフトウェアやアプリケーションからその予備設計にアクセスして編集できるようになります。
 
-[What's New](https://www.youtube.com/watch?v=dDNxDf05k2Y&list=PLqumTDi1CVHOtEqVu0Efnh0TLYKml8Fer)
+[Autodesk® FormIt® 360 Pro](http://www.autodesk.com/store/formit-360?licenseType=cloudSub&term=monthly) には、次のような追加機能があります。
 
-* Contextual Menu 
-    
-    ![](Images/GUID-8E20A1F0-773E-4AAC-A31E-B37BF8314086-low.png)
+チュートリアル ビデオの完全なリストについては、[FormIt 360 YouTube チャンネル](https://www.youtube.com/channel/UCdZJr6Bo4pwBu3lQqcxlDsw)をご覧ください。
+
+[新機能の紹介](https://www.youtube.com/watch?v=dDNxDf05k2Y&list=PLqumTDi1CVHOtEqVu0Efnh0TLYKml8Fer)
+
+* コンテキスト メニュー
+
+![](Images/GUID-8E20A1F0-773E-4AAC-A31E-B37BF8314086-low.png)
+

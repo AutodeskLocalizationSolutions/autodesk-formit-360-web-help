@@ -1,50 +1,52 @@
-# Creating Designs
 
-----
 
-Sketch or place geometric shapes onto grid backgrounds, satellite images, or overlays.
- 
-* Create conceptual models using 2D and 3D geometry creation tools. Start off by sketching 2D shapes or placing 3D primitives. Then, you can modify your designs by pushing and pulling faces, and by using various transform tools and Boolean operations. ![](Images/GUID-3E873180-70F5-4CBB-8293-D935A709EA52-low.png)
+# 設計を作成する
 
-There are two main ways to create geometry: Sketching shapes, and placing primitives. You can also import geometry.
+---
 
-There are 5 types of tools that you can sketch with: Lines, Arcs, Splines, Rectangles, and Circles.
+グリッドのバックグラウンド、衛星画像、またはオーバーレイにジオメトリ形状をスケッチまたは配置します。
 
-#### Sketching Shapes
+* 2D および 3D ジオメトリ作成ツールを使用して、コンセプト モデルを作成します。最初に 2D 形状をスケッチするか、3D プリミティブを配置します。次に、面をプッシュまたはプルしたり、さまざまな変換ツールやブール演算を使用して設計を修正します。![](Images/GUID-3E873180-70F5-4CBB-8293-D935A709EA52-low.png)
 
-* Creation tools are located in the action bar. You create shapes by clicking on a tool from the Sketch tool set. Then, click in the view to define the shape.![](Images/GUID-1013F3AF-1F01-47D6-91FC-F9FAF60802EA-low.png)
+ジオメトリを作成する方法には、形状をスケッチする方法とプリミティブを配置する方法の 2 通りがあります。ジオメトリは、読み込むこともできます。
 
-There are 5 types of 3D primitives that you can place: Cubes, Domes, Cylinders, Prisms, and Pyramids.
+スケッチに使用できるツールには線分、円弧、スプライン、長方形、円の 5 種類があります。
+
+#### 形状をスケッチする
+
+* 作成ツールはアクション バーにあります。[スケッチ]ツール セットでツールをクリックし、形状を作成します。次に、ビュー内をクリックして形状を定義します。![](Images/GUID-1013F3AF-1F01-47D6-91FC-F9FAF60802EA-low.png)
+
+配置できる 3D プリミティブには立方体、ドーム、円柱、プリズム、角錐の 5 種類があります。
 
 ![](Images/GUID-D7198AD2-9AC0-49EE-B6D7-3A467D0DCF68-low.png)
 
-#### Placing Primitives
+#### プリミティブを配置する
 
-* You can place primitives by clicking on a tool from the Geometry Creation toolbar. Then, click in the canvas to place the geometry.![](Images/GUID-64BB4908-639E-4A56-BA99-7241421CF82F-low.png)
+* プリミティブを配置するには、[ジオメトリ作成]ツールバーのツールをクリックします。次に、キャンバス内をクリックしてジオメトリを配置します。![](Images/GUID-64BB4908-639E-4A56-BA99-7241421CF82F-low.png)
 
-To create more complex designs after sketching a shape or placing a primitive, you can use several contextual tools to modify your geometry. These operations include: Select, Delete, Move, Scale, Rotate, Extrude, Cut Face, Offset Face, Tilt, Copy/Paste, Array, Cover, Sweep, Loft, and Boolean Cut and Join. Use the topics in the following list to learn more about these operations.
+形状をスケッチするか、プリミティブを配置した後、より複雑な設計を作成するには、いくつかのコンテキスト ツールを使用してジオメトリを修正します。選択、削除、移動、スケール、回転、押し出し、面の切り取り、面のオフセット、傾斜、コピー/貼り付け、配列、かぶり、スイープ、ロフト、ブール論理和、ブール論理差などの操作を行います。これらの操作の詳細については、次のリストのトピックを参照してください。
 
-#### See Also
+#### 参照
 
-* [Modify: Delete/Edit/Move ](../../Modify Designs/Modify Delete, Edit, Move.md)
-* [Modify: Extrude/Cut/Offset Face ](../../Modify Designs/Modify Extrude, Cut-Offset Faces.md)
-* [Modify: Select Edge/Face ](../../Modify Designs/Modify Select Edge-Face or Object.md)
-* [Modify: Scale/Rotate ](../../Modify Designs/Modify Scale and Rotate.md)
-* [Modify: Tilt/Array/Copy/Paste ](../../Modify Designs/Modify Tilt, Array, Copy-Paste.md)
-* [Modify: Boolean Operations ](../../Modify Designs/Modify Boolean Operations.md)
-* [Modify: Cover/Sweep/Loft ](../../Modify Designs/Modify Cover, Sweep, Loft.md)
+* [修正: 削除、編集、移動する ](../../Modify Designs/Modify Delete, Edit, Move.md)
+* [修正: 面を押し出す、切り取る、オフセットする](../../Modify Designs/Modify Extrude, Cut-Offset Faces.md)
+* [修正: エッジ/面を選択する](../../Modify Designs/Modify Select Edge-Face or Object.md)
+* [修正: 拡大/縮小および回転する ](../../Modify Designs/Modify Scale and Rotate.md)
+* [修正: 傾斜を適用、配列化、コピー、貼り付け ](../../Modify Designs/Modify Tilt, Array, Copy-Paste.md)
+* [修正: ブール演算](../../Modify Designs/Modify Boolean Operations.md)
+* [修正: かぶり/スイープ/ロフト ](../../Modify Designs/Modify Cover, Sweep, Loft.md)
 
-  
+#### このセクションの内容
 
-#### Topics in this section
+* [3D モデルとイメージを読み込む ](../Import 3D Models and Images.md)
 
-* [Import 3D Models and Images ](../Import 3D Models and Images.md)
-    
-    Add overlays and images to your designs for a variety of purposes.
-* [Sketching Shapes](../Sketching Shapes.md)
-    
-    Use Lines, Arcs, Splines, Rectangles, and Circles to create shapes that you can combine into building designs.
-* [Place Primitives](../Place Primitives.md)
-    
-    Use pre-defined shapes as design building blocks.
+さまざまな目的に応じてオーバーレイやイメージを設計に追加します。
+
+* [形状をスケッチする](../Sketching Shapes.md)
+
+線分、円弧、スプライン、長方形、円を使用して、建物設計に組み入れる形状を作成します。
+
+* [プリミティブを配置する](../Place Primitives.md)
+
+事前設定済みの形状を設計建物ブロックとして使用します。
 

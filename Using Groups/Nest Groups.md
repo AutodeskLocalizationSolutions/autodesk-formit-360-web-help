@@ -1,13 +1,16 @@
-# Nest Groups
 
-----
 
-Cluster like elements within a design.
+# グループをネストする
 
-You can treat groups as container elements, within which other smaller groups live. These nested groups can be used to create larger group structures
+---
 
-1. Select an existing group.
-2. Add one or more new objects to the group.
-3. Select objects or faces that you want to add to a second group.
-4. Display the Context Menu and click the Group icon.
-5. Click (Finish) in the upper left corner.![](Images/GUID-8FC20E8B-8988-4F0D-B79A-D18B5FA00134-low.png)
+設計内の類似した要素をクラスタ化します。
+
+グループはコンテナ要素として扱うことができ、その中に他の小規模なグループを含めることができます。このようなネストされたグループを使用して、大規模なグループ構造を作成することができます。
+
+1. 既存のグループを選択します。
+2. 1 つまたは複数の新しいオブジェクトをグループに追加します。
+3. 2 番目のグループに追加するオブジェクトまたは面を選択します。
+4. コンテキスト メニューを表示して、[グループ]アイコンをクリックします。
+5. 左上隅にある(完了)をクリックします。![](Images/GUID-8FC20E8B-8988-4F0D-B79A-D18B5FA00134-low.png)
+

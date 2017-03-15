@@ -1,11 +1,14 @@
-# Place Primitives
 
-----
 
-Use pre-defined shapes as design building blocks.
+# プリミティブを配置する
 
-## Place a Primitive
+---
 
-1. ![](Images/GUID-08D9B90C-BE55-4596-BFFB-3436E9D2A939-low.png) Placing primitives provides a second way to create content.
-2. ![](Images/GUID-64BB4908-639E-4A56-BA99-7241421CF82F-low.png)Click one of the five shapes on the primitives palette.
-3. Click in the drawing area to place the image.
+事前設定済みの形状を設計建物ブロックとして使用します。
+
+## プリミティブを配置する
+
+1. ![](Images/GUID-08D9B90C-BE55-4596-BFFB-3436E9D2A939-low.png)コンテンツを作成するもう 1 つの方法として、プリミティブを配置する方法があります。
+2. ![](Images/GUID-64BB4908-639E-4A56-BA99-7241421CF82F-low.png)プリミティブ パレットにある 5 つの形状のうち 1 つをクリックします。
+3. 作図領域をクリックして、イメージを配置します。
+

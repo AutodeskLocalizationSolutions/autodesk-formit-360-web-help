@@ -1,109 +1,111 @@
-# Keyboard Shortcuts
 
-----
 
-Speed up your design work with keyboard shortcuts.
+# キーボード ショートカット
 
-Use these shortcuts to streamline you interaction with the FormIt 360 software.
+---
 
-| | |
-| ---- | ---- |
-| *Edit*   |     |
-| Delete   |  Delete   |
-| Copy   |  Ctrl/CMD + C   |
+キーボード ショートカットを使用して設計作業の速度を上げます。
 
+これらのショートカットを使用すると、FormIt 360 の操作を簡略化できます。
 
 | | |
 | ---- | ---- |
-| Set Axes   |  S Z   |
-| Reset Axes   |  R Z   |
-| Paste   |  Ctrl+V   |
-| Redo   |  Ctrl+Y   |
-| Undo   |  Ctrl+Z   |
-| Redo   |  Ctrl+Shft+Z   |
-| *Draw*   |     |
-| Arc   |  A   |
-| Circle   |  C   |
-| 3D Sketch   |  L   |
-| Rectangle   |  R   |
-| Spline   |  S   |
-| *Tools*   |     |
-| Array   |  A R   |
-| Cut Geometry (Context Menu)   |  C C   |
-| Cut Geometry (Toolbar)   |  C G   |
-| Cover   |  C V   |
-| Extrude Edges   |  E E   |
-| Fillet   |  F I   |
-| Lasso Select   |  L L   |
-| Loft Edges   |  L O   |
-| Measure   |  M   |
-| Measure Angle   |  M A   |
-| Merge Edges and Vertices   |  M E   |
-| Mirror   |  M I   |
-| Multi-Move   |  M M   |
-| Offset Face   |  O F   |
-| Offset Edges   |  O E   |
-| Offset Solid   |  O S   |
-| Reverse Faces   |  F F   |
-| Rotate   |  Q   |
-| Rotate Face   |  Q F   |
-| Scale Face   |  S F   |
-| Shell   |  S H   |
-| Smooth Edges   |  S E   |
-| Sweep   |  S W   |
-| Taper Face   |  T F   |
-| Unsmooth Edges   |  U E   |
-| *Primitive*   |     |
-| Cube   |  ALT+B   |
-| Cylinder   |  ALT+C   |
-| Dome   |  ALT+D   |
-| Prism   |  ALT+R   |
-| Pyramid   |  ALT+P   |
-| *Display*   |     |
-| Ambient Shadows   |  D A   |
-| Axes   |  D Z   |
-| Backfaces   |  D B   |
-| Edges   |  D E   |
-| Extend Lines   |  D X   |
-| Grid   |  D G   |
-| Hidden Lines   |  D H   |
-| Non-Watertight   |  D W   |
-| Shadows   |  D S   |
-| Silhouettes   |  D O   |
-| Sketchy Lines   |  D K   |
-| Thin Edges   |  D T   |
-| *Application Settings*   |     |
-| Display Dimensions   |  D D   |
-| Snap to Grid   |  S G   |
-| Display Levels   |  D L   |
-| Use Levels   |  U L   |
-| *Group*   |     |
-| Edit Group (Context Menu)   |  E   |
-| Edit Group (Toolbar)   |  ALT+E   |
-| Finish Group Action   |  F   |
-| Group (Context Menu)   |  G   |
-| Group (Toolbar)   |  ALT+G   |
-| Make Unique (Context Menu)   |  M   |
-| Make Unique (Toolbar)   |  ALT+M   |
-| Ungroup (Context Menu)   |  U   |
-| Ungroup (Toolbar)   |  ALT+U   |
-| Ungroup All (Context Menu)   |  U A   |
-| Ungroup All (Toolbar)   |  Alt - A   |
-| *View*   |     |
-| 3D View   |  Z D   |
-| First Person Fly-Through   |  F T   |
-| Top   |  Z T   |
-| Zoom All   |  Z A   |
-| Zoom All   |  Z E   |
-| Zoom All   |  Z Z   |
-| Zoom All Images   |  Z I   |
-| *Selection Filter*   |     |
-| Edges   |  E S   |
-| Faces   |  F S   |
-| Groups   |  G S   |
-| Solids   |   S S   |
-| *File*   |     |
-| Save   |  CTRL+S   |
-| *Sketch Settings*   |     |
-| Toggle Unit Type   |  U T   |
+|*編集*|     |
+|削除|[Delete]|
+|コピー|[Ctrl]/[Cmd]+[C]|
+
+| | |
+| ---- | ---- |
+|軸を設定|[S]、[Z]|
+|軸をリセット|[R]、[Z]|
+|貼り付け|[Ctrl]+[V]|
+|やり直し|[Ctrl]+[Y]|
+|元に戻す|[Ctrl]+[Z]|
+|やり直し|[Ctrl]+[Shift]+[Z]|
+|*描画*|
+|
+|円弧|[A]|
+|円|[C]|
+|3D スケッチ|[L]|
+|長方形|[R]|
+|スプライン|[S]|
+|*ツール*|      |
+|配列|[A]、[R]|
+|ジオメトリの切り取り(コンテキスト メニュー)|[C]、[C]|
+|ジオメトリの切り取り(ツールバー)|[C]、[G]|
+|かぶり|[C]、[V]|
+|エッジを押し出す|[E]、[E]|
+|フィレット|[F]、[I]|
+|投げ縄選択|[L]、[L]|
+|ロフトのエッジ|[L]、[O]|
+|計測|[M]|
+|角度を計測|[M]、[A]|
+|エッジと頂点を結合|[M]、[E]|
+|鏡像|[M]、[I]|
+|複数移動|[M]、[M]|
+|面のオフセット|[O]、[F]|
+|エッジのオフセット|[O]、[E]|
+|ソリッドのオフセット|[O]、[S]|
+|面を反転|[F]、[F]|
+|回転|[Q]|
+|面を回転|[Q]、[F]|
+|面をスケール|[S]、[F]|
+|シェル|[S]、[H]|
+|滑らかなエッジ|[S]、[E]|
+|スイープ|[S]、[W]|
+|面のテーパリング|[T]、[F]|
+|滑らかではないエッジ|[U]、[E]|
+|*プリミティブ*|     |
+|立方体|[Alt]+[B]|
+|円柱|[Alt]+[C]|
+|ドーム|[Alt]+[D]|
+|プリズム|[Alt]+[R]|
+|角錐|[Alt]+[P]|
+|*表示*|      |
+|アンビエント シャドウ|[D]、[A]|
+|軸|[D]、[Z]|
+|背面|[D]、[B]|
+|エッジ|[D]、[E]|
+|延長線|[D]、[X]|
+|グリッド|[D]、[G]|
+|隠線|[D]、[H]|
+|非防水|[D]、[W]|
+|影|[D]、[S]|
+|シルエット|[D]、[O]|
+|手書き風の線|[D]、[K]|
+|うすべり|[D]、[T]|
+|*アプリケーション設定*|     |
+|寸法を表示|[D]、[D]|
+|グリッドにスナップ|[S]、[G]|
+|レベルを表示|[D]、[L]|
+|レベルを使用|[U]、[L]|
+|*グループ*|     |
+|グループを編集(コンテキスト メニュー)|[E]|
+|グループを編集(ツールバー)|[Alt]+[E]|
+|グループ操作を完了|[F]|
+|グループ(コンテキスト メニュー)|[G]|
+|グループ(ツールバー)|[Alt]+[G]|
+|ユニークにする(コンテキスト メニュー)|[M]|
+|ユニークにする(ツールバー)|[Alt]+[M]|
+|グループ化の解除(コンテキスト メニュー)|[U]|
+|グループ化の解除(ツールバー)|[Alt]+[U]|
+|すべてのグループ化を解除(コンテキスト メニュー)|[U]、[A]|
+|すべてのグループ化を解除(ツールバー)|[Alt]+[A]|
+|*ビュー*|     |
+|3D ビュー|[Z]、[D]|
+|主観視点のフライスルー|[F]、[T]|
+|上部|[Z]、[T]|
+|すべてズーム|[Z]、[A]|
+|すべてズーム|[Z]、[E]|
+|すべてズーム|[Z]、[Z]|
+|すべてのイメージをズーム|[Z]、[I]|
+|*選択フィルタ*|     |
+|エッジ|[E]、[S]|
+|面|[F]、[S]|
+|グループ|[G]、[S]|
+|ソリッド|[S]、[S]|
+|*ファイル*|     |
+|保存|[Ctrl]+[S]|
+|*スケッチの設定*|     |
+|単位タイプの切り替え|[U]、[T]|
 

@@ -1,13 +1,15 @@
-# Sketch Settings
 
-----
 
-Change sketch-specific settings to change how the current sketch appears and behaves.
+# スケッチの設定
 
-### Sketch Settings
+---
+
+スケッチ固有の設定を修正し、現在のスケッチの表示および動作方法を変更します。
+
+### スケッチの設定
 
 | | |
 | ---- | ---- |
-| ![](Images/GUID-E8CB6399-D221-4F28-81A6-75CE6D4A3C2D-low.png)   |   <br>*Units*: Change units to Imperial (feet and inches) or Metric<br><br>*Visual Style* <br>* *High Definition*: Improve how graphics appear on high pixel density displays. This setting may result in decreased performance<br>* *Display ambient shadows*: Toggle this feature to add a soft shadow effect to your model<br>* *Display edges*: Toggle this feature to turn off edges in your model. This option works well with Ambient shadows for presentations<br>* *Display silhouette outlines*: Forms will be emphasized by drawing a slightly wider line around the silhouette edges<br>* *Display wide lines*: Widest lines possible<br>* *Display sketchy lines*: Change the appearance of your sketch by toggling making lines to appear that they have been sketched by hand<br>* *Show hidden lines*: Display faint lines that are normally hidden by other faces<br>* *Display extended edges*: Display short extensions where lines intersect<br>* *Display grid*: Toggle the visibility of the grid<br>* *Display axes: *Toggle the visibility of the coordinate system axes<br>* *Display north arrow: *Toggle the visibility of the north arrow<br>* *Display levels*: Toggle the visibility of the levels<br><br>  |
-| ![](Images/GUID-5A845410-7137-4375-9B5F-1B8DEE15BD56-low.png)   |   <br>*Model Diagnostics*<br><br>* *Display Backfaces: *Faces that are abnormally facing outward will be displayed in a purple color<br>* *Display Watertight Issues*: Holes in faces and lines/edges not associated with an object will be displayed in a purple color<br>  |
+|![](Images/GUID-E8CB6399-D221-4F28-81A6-75CE6D4A3C2D-low.png)|*単位*: インチ/フィート単位またはメートル単位に変更します。*表示スタイル* * *高解像度*: グラフィックスの表示を高ピクセル解像度表示で向上します。 この設定によりパフォーマンスが低下する場合があります。* *アンビエント シャドウを表示*: モデルに柔らかい影を追加するにはこの機能に切り替えます。* *エッジを表示*: モデルのエッジをオフにするにはこの機能を切り替えます。 このオプションはアンビエント シャドウを表示する場合に適しています。* *シルエットのアウトラインを表示*: わずかに太い線をシルエット エッジの周囲に描画することによりフォームを強調します。* *太線を表示*: 最も太い線を表示します。* *手書き風の線を表示*: 手書きでスケッチされたような線の表示/非表示を切り替えて、スケッチの外観を変更します。* *隠線を表示*: 通常は他の面に隠れて非表示になる線を薄く表示します。* *延長されたエッジを表示*: 線が交差する部分の短い延長線を表示します。* *グリッドを表示*: グリッドの表示/非表示を切り替えます。* *軸を表示: *座標系の軸の表示/非表示を切り替えます。* *北向き矢印を表示: *北向き矢印の表示/非表示を切り替えます。* *レベルを表示*: レベルの表示/非表示を切り替えます。|
+|![](Images/GUID-5A845410-7137-4375-9B5F-1B8DEE15BD56-low.png)|*モデル診断** *背面を表示: *外側に向いている異常な面を紫色で表示します* *密閉性に関する問題を表示*: オブジェクトに関連付けられていない面の穴や線分/エッジを紫色で表示します|
 

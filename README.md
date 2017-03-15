@@ -1,1 +1,4 @@
-Mode Lab generated this book automatically.
+
+
+このマニュアルは Mode Lab により自動的に生成されました。
+

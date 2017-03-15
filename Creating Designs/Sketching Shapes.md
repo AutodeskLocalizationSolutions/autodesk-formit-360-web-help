@@ -1,44 +1,48 @@
-# Sketching Shapes
 
-----
 
-Use Lines, Arcs, Splines, Rectangles, and Circles to create shapes that you can combine into building designs.
+# 形状をスケッチする
 
-After selecting a drawing tool, you can hover anywhere on the canvas to use snaps and inference points before you place your first point.
+---
 
-## Using Lines
+線分、円弧、スプライン、長方形、円を使用して、建物設計に組み入れる形状を作成します。
 
-![](Images/GUID-27983F96-48B2-4FD2-8667-EDC3435AAA66-low.png) 
-1. Click your mouse once in the drawing area to place the first endpoint of the line.
-2. Use hover, snap / inference, click - to place the second endpoint of the line.
-3. ![](Images/GUID-AB3A710E-3BF8-4163-AF46-2B02ED9A3277-low.png)To draw the next line segment, you will need to click to create another endpoint.
+描画ツールを選択した後、キャンバス上の任意の場所にカーソルを合わせると、スナップと推定配置点が表示されるため、それらを基準に最初の点を配置できます。
 
-Once you start drawing a line on an axis, pressing the shift key locks the line to that axis so that you can extend it without worrying about leaving the axis.
-NoteUse the Tab key to open the Set Length dialog that allows you to type in a length value. When Snap to Grid is turned off, the values in the Set Length box appear in whole numbers; with Snap to Grid on, the numbers appear in fractions of a foot or meter.
-## Using Arcs
+## 線分を使用する
 
-![](Images/GUID-9DB80E7B-E0BE-4EC1-B035-F01592BCE7F0-low.png) 
-1. Click your mouse when you are ready to place the first endpoint of the arc.
-2. Follow the same steps of hover, snap / inference, click - to place the second endpoint of the arc.
-3. To finish the arc, click once more to define the arc angle. ![](Images/GUID-1F062C15-3811-4D9A-A15C-E464EF756989-low.png)
+![](Images/GUID-27983F96-48B2-4FD2-8667-EDC3435AAA66-low.png)
 
-## Using Splines
+1. 作図領域内をマウスで 1 回クリックし、線分の最初の端点を配置します。
+2. カーソルを合わせてスナップ/推定点を表示してクリックし、線分の 2 番目の端点を配置します。
+3. ![](Images/GUID-AB3A710E-3BF8-4163-AF46-2B02ED9A3277-low.png)次の線分セグメントを描画するには、クリックして別の端点を作成する必要があります。
 
-![](Images/GUID-70BC13C6-FED4-4BC2-BBFB-B4D0AE66A7FC-low.png) 
-1. Click your mouse once you are ready to place the first endpoint of the spline.
-2. Follow the same steps of hover, snap / inference, click - to draw the next spline point.
-NoteThe spline curve appears automatically.
-1. ![](Images/GUID-7F769709-6434-40BF-BB18-2C7C73E343C6-low.png)Click the original spline end point to close the loop of sketch lines and create a plane.
+軸上で線分を描画しているときに[Shift]キーを押すと、その軸上の線分がロックされるため、軸から移動して線分を延長できます。注: [長さを設定]ダイアログを開いて長さの値を入力するには、[Tab]キーを使用してください。[グリッドにスナップ]がオフになっている場合、[長さを設定]ボックスには整数値のみが表示されます。[グリッドにスナップ]がオンになっている場合、数値はフィート単位またはメートル単位の分数値で表示されます。
 
-## Using Rectangles
+## 円弧を使用する
 
-![](Images/GUID-8C3D33D8-5D89-4D52-9425-323604428765-low.png) 
-1. Click your mouse once you are ready to place the first corner of the rectangle.
-2. Follow the same steps of hover, snap/inference, click - to place the second corner of the rectangle.
-3. ![](Images/GUID-8D08B9BE-B846-4FBA-9CEC-9A8E653548C0-low.png)Finally, follow the same steps as before to place the third corner of the rectangle.
+![](Images/GUID-9DB80E7B-E0BE-4EC1-B035-F01592BCE7F0-low.png)
 
-## Using Circles
+1. 円弧の最初の端点を配置する準備ができたら、マウスをクリックします。
+2. 上記と同じ手順に従い、カーソルを合わせてスナップ/推定点を表示してクリックし、円弧の 2 番目の端点を配置します。
+3. 円弧を終了するには、もう一度クリックして円弧の角度を設定します。 ![](Images/GUID-1F062C15-3811-4D9A-A15C-E464EF756989-low.png)
+## スプラインを使用する
 
-![](Images/GUID-1193F05F-06CC-4415-A8E8-809D5824D25D-low.png) 
-1. Click your mouse once you are ready to place the center point of the circle.
-2. ![](Images/GUID-E665F344-1E0F-41B0-8195-EC68951CAC69-low.png)Follow the same steps of hover, snap/inference, click - to define the radius of the circle.
+![](Images/GUID-70BC13C6-FED4-4BC2-BBFB-B4D0AE66A7FC-low.png)
+
+1. スプラインの最初の端点を配置する準備ができたら、マウスをクリックします。
+2. 上記と同じ手順に従い、カーソルを合わせてスナップ/推定点を表示してクリックし、スプラインの 2 番目の点を描画します。注: スプライン曲線は自動的に表示されます。
+3. ![](Images/GUID-7F769709-6434-40BF-BB18-2C7C73E343C6-low.png)スプラインの元の端点をクリックし、スケッチのループを閉じて、平面を作成します。
+## 長方形を使用する
+
+![](Images/GUID-8C3D33D8-5D89-4D52-9425-323604428765-low.png)
+
+1. 長方形の最初のコーナーを配置する準備ができたら、マウスをクリックします。
+2. 上記と同じ手順に従い、カーソルを合わせてスナップ/推定点を表示してクリックし、長方形の 2 番目のコーナーを配置します。
+3. ![](Images/GUID-8D08B9BE-B846-4FBA-9CEC-9A8E653548C0-low.png)最後に、上記と同じ手順に従い、長方形の 3 番目のコーナーを配置します。
+## 円を使用する
+
+![](Images/GUID-1193F05F-06CC-4415-A8E8-809D5824D25D-low.png)
+
+1. 円の中心点を配置する準備ができたら、マウスをクリックします。
+2. ![](Images/GUID-E665F344-1E0F-41B0-8195-EC68951CAC69-low.png)上記と同じ手順に従い、カーソルを合わせてスナップ/推定点を表示してクリックし、円の半径を設定します。
+

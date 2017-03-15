@@ -1,10 +1,12 @@
-# Joining a Session
 
-----
 
-Become part of a collaboration.
- 
+# セッションに参加する
 
-* Click the link provided to you by the session host, or paste the link URL into your Web browser address bar. Login to [Autodesk 360](https://360.autodesk.com), you will be added as a collaborator, and your icon will appear on the toolbar. When you are done collaborating, just click the 'Leave Sharing Session' option from the drop down menu under your picture.
+---
 
-Please note that joining a session will require you to start FormIt in a new tab. Additionally, if you leave a session as a guest collaborator, a copy of the sketch will NOT be saved to your A360 account.
+コラボレーションに参加します。
+
+* セッションのホストから提供されたリンクをクリックするか、リンクの URL を Web ブラウザのアドレスバーに貼り付けます。[Autodesk 360](https://360.autodesk.com) にログインすると、共有メンバーとして追加されて、自分のアイコンがツールバーに表示されます。 コラボレーションを終了するときは、自分の写真の下にあるドロップダウン メニューから[セッションの共有を終了]オプションをクリックします。
+
+セッションに参加するには、新しいタブで FormIt を起動する必要があります。また、ゲストの共有ユーザとしてセッションを終了する場合、スケッチのコピーは A360 アカウントに保存されません。
+

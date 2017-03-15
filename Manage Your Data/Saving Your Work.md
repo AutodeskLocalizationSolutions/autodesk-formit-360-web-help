@@ -1,11 +1,14 @@
-# Saving Your Work
 
-----
 
-Preserve your designs in multiple formats.
- 
-* All your sketches can be saved and accessed from either you local drive or on http://360.autodesk.com . 
-    
-    ![](Images/GUID-67819C01-6E53-4C5F-B798-919DE3220D11-low.png)
+# 作業内容を保存する
 
-When a sketch is saved to http://360.autodesk.com three files are created in AXM, SAT, and RVT formats (the latter for opening in Revit software-based products). ![](Images/GUID-77322109-D293-4D4B-8291-3E3014A9FFE6-low.jpg) The Revit file can be downloaded locally, and opened directly in Revit
+---
+
+さまざまな形式で設計を保存します。
+
+* すべてのスケッチに、ローカル ドライブまたは [http://360.autodesk.com](http://360.autodesk.com) から保存およびアクセスできます。
+
+![](Images/GUID-67819C01-6E53-4C5F-B798-919DE3220D11-low.png)
+
+スケッチが [http://360.autodesk.com](http://360.autodesk.com) に保存されると、AXM、SAT、および RVT の 3 つの形式のファイルが作成されます。RVT 形式のファイルは、Revit ベースの製品で開くことができます。 ![](Images/GUID-77322109-D293-4D4B-8291-3E3014A9FFE6-low.jpg) Revit ファイルはローカルでダウンロードでき、Revit で直接開くことができます。
+

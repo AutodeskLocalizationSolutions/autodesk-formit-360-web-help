@@ -1,21 +1,23 @@
-# Edit, Reload, or Remove a Satellite Image
 
-----
 
-Make changes to your location images.
+# 衛星画像を編集、再ロード、または削除する
 
-## Working with Satellite Images
+---
 
-1. To remove or edit a satellite image:
-2. Double click to select the image and then press Delete; or,
-3. From the context menu: Double click to select the satellite image, then right click over the image to bring up the context menu; chose the delete icon.
+位置のイメージを変更します。
 
-#### To Edit satellite images:
+## 衛星画像を使用して作業する
 
-1. Similar to other images, you can edit the name, transparency, and vertical order of a satellite image. 
-    
-    ![](Images/GUID-71526B08-F8BB-4D95-A94C-0ABA25AC4090-low.png)
+1. 衛星画像を削除または編集するには:
+2. イメージをダブルクリックして選択し、[削除]をクリックします。または、
+3. コンテキスト メニューを使用します。衛星画像をダブルクリックして選択し、画像を右クリックしてコンテキスト メニューを表示します。次に、[削除]アイコンを選択します。
+#### 衛星画像を編集するには:
 
-#### To reload a satellite image:
+1. 他のイメージと同様、衛星画像の名前、透過度、縦方向を編集できます。
 
-1. Simply repeat the process to import a satellite image.
+![](Images/GUID-71526B08-F8BB-4D95-A94C-0ABA25AC4090-low.png)
+
+#### 衛星画像を再ロードするには:
+
+1. 衛星画像を読み込む手順を繰り返します。
+

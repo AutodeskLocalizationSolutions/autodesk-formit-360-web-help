@@ -1,46 +1,54 @@
-# Modify Designs
 
-----
 
-Make designs more complex by using a variety of geometry modification tools.
- 
+# 設計を修正する
 
-After you select an object or an edge or face component, you can manipulate objects using Extrude, Cut/Offset, Tilt, Scale, Rotate, Array, and Boolean operations like Union and Subtract.
+---
 
-  
+さまざまなジオメトリ修正ツールを使用して、より複雑な設計を作成します。
 
-#### Topics in this section
+オブジェクト、エッジ、面のいずれかのコンポーネントを選択した後、[押し出し]、[切り取り/オフセット]、[傾斜]、[スケール]、[回転]、[配列]、および論理和や論理差などのブール演算を使用して、オブジェクトを操作できます。
 
-* [World Axes](../World Axes.md)
-* [Work Planes](../Work Planes.md)
-* [ Snaps and Inferences](../Snaps and Inferences.md)
-    
-    Use these built-in capabilities to create more accurate designs.
-* [About Smart Selection](../About Smart Selection.md)
-    
-    The TAB key provides a way to make selecting similar objects easier.
-* [Modify: Select Edge/Face or Object](../Modify Select Edge-Face or Object.md)
-    
-    Choosing an object or surface is the first step to making modifications.
-* [Modify: Delete, Edit, Move](../Modify Delete, Edit, Move.md)
-    
-    Remove an object, change its location, or modify its properties.
-* [Modify: Cover, Sweep, Loft](../Modify Cover, Sweep, Loft.md)
-    
-    Enclose open edges, make geometry changes along a path of edges, and connect multiple profiles or edges.
-* [Examine Object Properties](../Examine Object Properties.md)
-    
-    View or change a building object's name or its volume/area and level values.
-* [Modify: Scale and Rotate](../Modify Scale and Rotate.md)
-    
-    Adjust the size and orientation of objects.
-* [ Modify: Tilt, Array, Copy/Paste](../Modify Tilt, Array, Copy-Paste.md)
-    
-    Create more complex designs by making alterations to previously drawn shapes.
-* [Modify: Extrude, Cut/Offset Faces](../Modify Extrude, Cut-Offset Faces.md)
-    
-    Push or pull a face, or imprint new shapes on existing ones, or change create new edges offset from the original ones.
-* [Modify: Boolean Operations](../Modify Boolean Operations.md)
-    
-    Use Join and Cut operations to alter objects.
+#### このセクションの内容
+
+* [ワールド軸](../World Axes.md)
+* [作業面](../Work Planes.md)
+* [スナップと推定配置点](../Snaps and Inferences.md)
+
+これらの組み込み機能を使用して、より正確な設計を作成します。
+
+* [スマート選択について](../About Smart Selection.md)
+
+[Tab]キーを使用すると、類似オブジェクトを簡単に選択できます。
+
+* [修正: エッジ、面、またはオブジェクトを選択する](../Modify Select Edge-Face or Object.md)
+
+オブジェクトやサーフェスを修正するには、最初にそのオブジェクトやサーフェスを選択する必要があります。
+
+* [修正: 削除、編集、移動する](../Modify Delete, Edit, Move.md)
+
+オブジェクトの削除、オブジェクトの場所の移動、オブジェクトのプロパティの編集を行います。
+
+* [修正: かぶり、スイープ、ロフト](../Modify Cover, Sweep, Loft.md)
+
+開いているエッジを囲む方法、エッジのパスに沿ってジオメトリを変更する方法、複数のプロファイルやエッジを接続する方法について説明します。
+
+* [オブジェクトのプロパティを調べる](../Examine Object Properties.md)
+
+建物オブジェクトの名前、体積、面積、レベル値を表示または変更します。
+
+* [修正: 拡大/縮小および回転する](../Modify Scale and Rotate.md)
+
+オブジェクトのサイズと向きを調整します。
+
+* [ 修正: 傾斜を適用、配列化、コピー、貼り付け](../Modify Tilt, Array, Copy-Paste.md)
+
+以前に描画した形状を変更して、より複雑な設計を作成します。
+
+* [修正: 面を押し出す、切り取る、オフセットする](../Modify Extrude, Cut-Offset Faces.md)
+
+面のプッシュとプル、既存の形状に対する新しい形状のインプリント、既存のエッジから新しいエッジへのオフセットの作成について説明します。
+
+* [修正: ブール演算](../Modify Boolean Operations.md)
+
+結合(論理和演算)および切り取り(論理差演算)を使用して、オブジェクトを変更することができます。
 

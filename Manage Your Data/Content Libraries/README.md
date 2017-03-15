@@ -1,24 +1,24 @@
-# Content Libraries
 
-----
 
-Use a personal library of frequently used elements like furniture, building elements, or material base files.
- 
-NoteTo link to local content, use Google Chrome instead of Firefox or Windows Explorer.
-You can store previous projects and site files. Your content library can be stored and linked to from a local folder (in a Drop Box Sync folder for instance), or an [Autodesk 360 Drive](https://360.autodesk.com). To use a content library, click the Content Library icon in the properties panel to the right side of the canvas. Then, click on the 'Link Library' button.![](Images/GUID-FC74216E-0452-400D-97C6-52BBCEC19C38-low.png)
+# コンテンツ ライブラリ
 
-After you add new FormIt sketches (.AXM), .OBJ, or .STL files to your content file structure - either locally or on A360 Drive - you will need to refresh the Content Library in FormIt. To do this click the Link Library button again, and either navigate to your local library, or choose the A360 option and FormIt will refresh the list automatically.
+---
 
-If you have linked your library locally, and then start a new FormIt web session, you will need to re-link the Content Library. When you click the Content Library tab, you will see a web browser specific dialog asking permission to link to a local folder. You need to navigate to your top level content library folder.
+家具、建物要素、マテリアルの基本ファイルなど、頻繁に使用する要素を個人的なライブラリにまとめておくことができます。
 
-  
+注: ローカル コンテンツにリンクする場合は、Firefox または Windows エクスプローラではなく Google Chrome を使用してください。以前のプロジェクトや外構ファイルを保存できます。コンテンツ ライブラリを保存しておくと、ローカル フォルダ(Dropbox 同期フォルダなど)や [Autodesk 360 ドライブ](https://360.autodesk.com)からリンクできます。 コンテンツ ライブラリを使用するには、キャンバスの右側にある[プロパティ]パネルで[コンテンツ ライブラリ]アイコンをクリックします。次に、[ライブラリにリンク]ボタンをクリックします。![](Images/GUID-FC74216E-0452-400D-97C6-52BBCEC19C38-low.png)
 
-#### Topics in this section
+新しい FormIt スケッチ(.AXM)、.OBJ、または .STL ファイルをコンテンツ ファイル構造のローカルまたは A360 ドライブに追加した後、FormIt でコンテンツ ライブラリを再表示する必要があります。再表示するには、[ライブラリにリンク]ボタンを再度クリックし、ローカル ライブラリにナビゲートするか、または A360 のオプションを選択します。これにより、リストが自動的に再表示されます。
 
-* [Link a Content Library](../Link a Content Library.md)
-    
-    Access previously stored projects and site files.
-* [Place Content ](../Place Content.md)
-    
-    Use the data from a content library file in a design.
+ライブラリにローカルでリンクした後、新しい FormIt Web セッションを開始する場合は、コンテンツ ライブラリのリンクを設定し直す必要があります。[コンテンツ ライブラリ]タブをクリックすると、Web ブラウザ固有のダイアログが表示され、ローカル フォルダへのリンクを許可するか確認を求められます。コンテンツ ライブラリ フォルダの最上位レベルにナビゲートする必要があります。
+
+#### このセクションの内容
+
+* [コンテンツ ライブラリにリンクする](../Link a Content Library.md)
+
+以前に保存したプロジェクトおよび外構ファイルにアクセスします。
+
+* [コンテンツを配置する](../Place Content.md)
+
+設計でコンテンツ ライブラリ ファイルのデータを使用します。
 
